@@ -9,4 +9,8 @@ Laravel is a powerful and flexible PHP framework designed for developers who nee
 ## Resources
 Here are some additional resources to help you learn Laravel:
 
-[Laravel Official Website](https://laravel.com)
+- [Laravel Official Website](https://laravel.com)
+- [Laravel Documentation](https://laravel.com/docs)
+- [Laracasts (Video Tutorials)](https://laracasts.com)
+- [Laravel News](https://laravel-news.com)
+- [Laravel GitHub Repository](https://github.com/laravel/laravel)
