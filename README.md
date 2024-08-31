@@ -16,6 +16,7 @@ Here are some additional resources to help you learn Laravel:
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Routing](#routing)
+- [Middleware](#middleware)
 
 ## Introduction
 
@@ -41,5 +42,13 @@ Routing is a core concept in Laravel. It allows you to define how your applicati
 - Named Routes
 - Route Groups
 - Route Model Binding
+
+### Middleware
+
+Middleware acts as a bridge between a request and a response. Learn how to create and apply middleware to protect your routes and manage HTTP requests.
+
+- Creating Middleware
+- Registering Middleware
+- Middleware Parameters
 
 
