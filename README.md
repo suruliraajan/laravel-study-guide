@@ -16,6 +16,7 @@ Here are some additional resources to help you learn Laravel:
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Routing](#routing)
+- [Controllers](#controllers)
 - [Middleware](#middleware)
 
 ## Introduction
@@ -42,6 +43,14 @@ Routing is a core concept in Laravel. It allows you to define how your applicati
 - Named Routes
 - Route Groups
 - Route Model Binding
+
+### Controllers
+
+Controllers handle the logic for your routes. They help keep your routes file clean and organized.
+
+- Creating Controllers
+- Resource Controllers
+- Dependency Injection in Controllers
 
 ### Middleware
 
