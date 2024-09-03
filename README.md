@@ -18,6 +18,7 @@ Here are some additional resources to help you learn Laravel:
 - [Routing](#routing)
 - [Controllers](#controllers)
 - [Middleware](#middleware)
+- [Blade Templating](#blade-templating)
 
 ## Introduction
 
@@ -59,5 +60,15 @@ Middleware acts as a bridge between a request and a response. Learn how to creat
 - Creating Middleware
 - Registering Middleware
 - Middleware Parameters
+
+### Blade Templating
+
+Blade is Laravel’s powerful templating engine. It allows you to create clean, readable templates with minimal effort.
+
+- Blade Syntax
+- Blade Components
+- Layouts and Sections
+
+
 
 
