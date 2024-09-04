@@ -19,6 +19,7 @@ Here are some additional resources to help you learn Laravel:
 - [Controllers](#controllers)
 - [Middleware](#middleware)
 - [Blade Templating](#blade-templating)
+- [Database and Eloquent ORM](#database-and-eloquent-orm)
 
 ## Introduction
 
@@ -68,6 +69,15 @@ Blade is Laravel’s powerful templating engine. It allows you to create clean, 
 - Blade Syntax
 - Blade Components
 - Layouts and Sections
+
+### Database and Eloquent ORM
+
+Laravel's Eloquent ORM provides a beautiful, simple ActiveRecord implementation for working with your database.
+
+- Migrations
+- Eloquent Models
+- Query Builder
+- Eloquent Relationships
 
 
 
