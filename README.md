@@ -70,7 +70,8 @@ Blade is Laravel’s powerful templating engine. It allows you to create clean, 
 - Blade Components
 - Layouts and Sections
 - Laravel Blade Components
-- [https://www.youtube.com/playlist?list=PL1JpS8jP1wgAm1z3ntJZQ0ef9vokjJ56Z]
+	- [https://www.youtube.com/playlist?list=PL1JpS8jP1wgAm1z3ntJZQ0ef9vokjJ56Z]
+	- [https://www.youtube.com/watch?v=7E76PPoIVW4]
 
 ### Database and Eloquent ORM
 
