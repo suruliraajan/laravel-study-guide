@@ -20,6 +20,7 @@ Here are some additional resources to help you learn Laravel:
 - [Middleware](#middleware)
 - [Blade Templating](#blade-templating)
 - [Database and Eloquent ORM](#database-and-eloquent-orm)
+- [Authentication] (#Authentication)
 
 ## Introduction
 
@@ -81,6 +82,14 @@ Laravel's Eloquent ORM provides a beautiful, simple ActiveRecord implementation 
 - Eloquent Models
 - Query Builder
 - Eloquent Relationships
+
+### Authentication 
+
+Authentication is a key aspect of web applications. Laravel makes it easy to implement authentication out of the box.
+
+- Basic Authentication
+- Laravel Breeze
+- Roles and Permissions
 
 
 
