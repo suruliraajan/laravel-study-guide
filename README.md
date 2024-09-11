@@ -21,6 +21,7 @@ Here are some additional resources to help you learn Laravel:
 - [Blade Templating](#blade-templating)
 - [Database and Eloquent ORM](#database-and-eloquent-orm)
 - [Authentication] (#Authentication)
+- [Service Container and Dependency Injection] (###Service Container and Dependency Injection)
 
 ## Introduction
 
@@ -91,6 +92,11 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Breeze
 - Roles and Permissions
 
+### Service Container and Dependency Injection
+
+- Service Container: Understanding how Laravel’s service container works is crucial for managing class dependencies and performing dependency injection.
+- Binding and Resolving: Understanding how to bind classes and interfaces into the service container and resolve them.
+- Service Providers: Understand how service providers work to register bindings and perform bootstrapping tasks.
 
 
 
