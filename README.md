@@ -22,6 +22,7 @@ Here are some additional resources to help you learn Laravel:
 - [Database and Eloquent ORM](#database-and-eloquent-orm)
 - [Authentication] (#Authentication)
 - [Service Container and Dependency Injection] (###Service Container and Dependency Injection)
+- [Service Providers] (###Service Providers)
 
 ## Introduction
 
@@ -99,4 +100,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Service Providers: Understand how service providers work to register bindings and perform bootstrapping tasks.
 
 
+### Service Providers
 
+- Custom Service Providers: Create your own service providers to encapsulate and modularize functionality.
+- Deferred Providers: Explore how to load service providers only when they are needed, optimizing performance.
