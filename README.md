@@ -20,9 +20,9 @@ Here are some additional resources to help you learn Laravel:
 - [Middleware](#middleware)
 - [Blade Templating](#blade-templating)
 - [Database and Eloquent ORM](#database-and-eloquent-orm)
-- [Authentication] (#Authentication)
-- [Service Container and Dependency Injection] (###Service Container and Dependency Injection)
-- [Service Providers] (###Service Providers)
+- [Authentication](#Authentication)
+- [Service Container and Dependency Injection](###Service Container and Dependency Injection)
+- [Service Providers](###Service Providers)
 
 ## Introduction
 
