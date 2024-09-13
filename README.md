@@ -21,8 +21,9 @@ Here are some additional resources to help you learn Laravel:
 - [Blade Templating](#blade-templating)
 - [Database and Eloquent ORM](#database-and-eloquent-orm)
 - [Authentication](#Authentication)
-- [Service Container and Dependency Injection](###Service Container and Dependency Injection)
-- [Service Providers](###Service Providers)
+- [Service Container and Dependency Injection](#Service Container and Dependency Injection)
+- [Service Providers](#Service Providers)
+- [Queues and Jobs](#Queues and Jobs)
 
 ## Introduction
 
@@ -104,3 +105,9 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Custom Service Providers: Create your own service providers to encapsulate and modularize functionality.
 - Deferred Providers: Explore how to load service providers only when they are needed, optimizing performance.
+
+### Queues and Jobs
+
+- Queueing System: Laravel's built-in queue system allows you to defer the processing of time-consuming tasks, such as sending emails, until later.
+- Job Dispatching: Learn how to dispatch jobs to different queues.
+- Queue Workers: Understand how to run and manage queue workers, and how to configure different queue drivers like Redis or Amazon SQS.
