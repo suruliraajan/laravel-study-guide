@@ -21,9 +21,10 @@ Here are some additional resources to help you learn Laravel:
 - [Blade Templating](#blade-templating)
 - [Database and Eloquent ORM](#database-and-eloquent-orm)
 - [Authentication](#Authentication)
-- [Service Container and Dependency Injection](#Service Container and Dependency Injection)
-- [Service Providers](#Service Providers)
-- [Queues and Jobs](#Queues and Jobs)
+- [Service Container and Dependency Injection](#Service-Container-and-Dependency-Injection)
+- [Service Providers](#Service-Providers)
+- [Queues and Jobs](#Queues-and-Jobs)
+- [Testing](#Testing)
 
 ## Introduction
 
@@ -112,3 +113,9 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Queueing System: Laravel's built-in queue system allows you to defer the processing of time-consuming tasks, such as sending emails, until later.
 - Job Dispatching: Learn how to dispatch jobs to different queues.
 - Queue Workers: Understand how to run and manage queue workers, and how to configure different queue drivers like Redis or Amazon SQS.
+
+### Testing
+
+- Unit Testing: Write tests for your application’s logic using PHPUnit and Laravel’s testing utilities.
+- Feature Testing: Test entire features of your application, including HTTP requests and responses.
+- Mocking and Fakes: Use Laravel’s testing helpers to mock external services and test components in isolation.
