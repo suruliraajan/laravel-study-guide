@@ -25,6 +25,7 @@ Here are some additional resources to help you learn Laravel:
 - [Service Providers](#Service-Providers)
 - [Queues and Jobs](#Queues-and-Jobs)
 - [Testing](#Testing)
+- [Task Scheduling](#Task-Scheduling)
 
 ## Introduction
 
@@ -119,3 +120,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Unit Testing: Write tests for your application’s logic using PHPUnit and Laravel’s testing utilities.
 - Feature Testing: Test entire features of your application, including HTTP requests and responses.
 - Mocking and Fakes: Use Laravel’s testing helpers to mock external services and test components in isolation.
+
+### Task Scheduling
+
+- Scheduler: Utilize Laravel’s task scheduler to automate repetitive tasks by defining schedules in the app/Console/Kernel.php file.
+- Scheduling Artisan Commands: Schedule commands and tasks that should run periodically.
