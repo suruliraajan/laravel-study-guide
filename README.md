@@ -26,6 +26,7 @@ Here are some additional resources to help you learn Laravel:
 - [Queues and Jobs](#Queues-and-Jobs)
 - [Testing](#Testing)
 - [Task Scheduling](#Task-Scheduling)
+- [Packages Development](#Packages-Development)
 
 ## Introduction
 
@@ -125,3 +126,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Scheduler: Utilize Laravel’s task scheduler to automate repetitive tasks by defining schedules in the app/Console/Kernel.php file.
 - Scheduling Artisan Commands: Schedule commands and tasks that should run periodically.
+
+### Packages Development
+
+- Creating Packages: Learn how to create reusable packages that can be shared across multiple Laravel projects.
+- Package Discovery: Understand how Laravel automatically discovers and registers packages using package discovery.
