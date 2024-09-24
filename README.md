@@ -27,6 +27,7 @@ Here are some additional resources to help you learn Laravel:
 - [Testing](#Testing)
 - [Task Scheduling](#Task-Scheduling)
 - [Packages Development](#Packages-Development)
+- [API Development](#API-Development)
 
 ## Introduction
 
@@ -133,3 +134,9 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Creating Packages: Learn how to create reusable packages that can be shared across multiple Laravel projects.
 - Package Discovery: Understand how Laravel automatically discovers and registers packages using package discovery.
+
+### API Development
+
+- RESTful APIs: Build RESTful APIs using Laravel’s routing and resource controllers.
+- API Resources: Use API resources and transformers to format your API responses.
+- Rate Limiting and Throttling: Protect your API from abuse by implementing rate limiting.
