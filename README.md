@@ -29,6 +29,7 @@ Here are some additional resources to help you learn Laravel:
 - [Packages Development](#Packages-Development)
 - [API Development](#API-Development)
 - [Performance Optimization](#Performance-Optimization)
+- [File Storage](#File-Storage)
 
 ## Introduction
 
@@ -147,3 +148,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Caching: Use Laravel’s caching mechanisms to store frequently accessed data.
 - Route Caching: Optimize route loading by caching your routes.
 - Config Caching: Speed up your application by caching configuration files.
+
+### File Storage
+
+- Storage Facade: Learn how to use Laravel’s storage facade to manage file uploads, downloads, and storage across different disk drivers (local, Amazon S3, etc.).
+- Cloud Storage: Integrate cloud storage services and manage files in distributed environments.
