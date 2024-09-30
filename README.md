@@ -30,6 +30,8 @@ Here are some additional resources to help you learn Laravel:
 - [API Development](#API-Development)
 - [Performance Optimization](#Performance-Optimization)
 - [File Storage](#File-Storage)
+- [Security](#Security)
+
 
 ## Introduction
 
@@ -153,3 +155,9 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Storage Facade: Learn how to use Laravel’s storage facade to manage file uploads, downloads, and storage across different disk drivers (local, Amazon S3, etc.).
 - Cloud Storage: Integrate cloud storage services and manage files in distributed environments.
+
+### Security
+
+- CSRF Protection: Ensure that your forms are protected against cross-site request forgery.
+- Encryption: Utilize Laravel’s built-in encryption services to secure sensitive data.
+- Authentication Guards: Implement and customize different authentication guards to manage user sessions and API tokens.
