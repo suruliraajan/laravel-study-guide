@@ -31,6 +31,7 @@ Here are some additional resources to help you learn Laravel:
 - [Performance Optimization](#Performance-Optimization)
 - [File Storage](#File-Storage)
 - [Security](#Security)
+- [Custom Artisan Commands](#Custom-Artisan-Commands)
 
 
 ## Introduction
@@ -161,3 +162,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - CSRF Protection: Ensure that your forms are protected against cross-site request forgery.
 - Encryption: Utilize Laravel’s built-in encryption services to secure sensitive data.
 - Authentication Guards: Implement and customize different authentication guards to manage user sessions and API tokens.
+
+### Custom Artisan Commands
+
+- Creating Commands: Write custom Artisan commands to automate tasks and enhance your workflow.
+- Interactive Commands: Create commands that interact with the user through the command line.
