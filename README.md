@@ -172,4 +172,4 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 ### Localization
 
 - Multilingual Support: Add support for multiple languages in your application.
-- Language Files: Manage translations using Laravel’s language files.
+- Language Files: Manage translations using Laravel language files.
