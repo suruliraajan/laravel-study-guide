@@ -33,6 +33,7 @@ Here are some additional resources to help you learn Laravel:
 - [Security](#Security)
 - [Custom Artisan Commands](#Custom-Artisan-Commands)
 - [Localization](#Localization)
+- [Single Page Applications (SPA) with Laravel](Single-Page-Applications-(SPA)-with-Laravel)
 
 
 ## Introduction
@@ -173,3 +174,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Multilingual Support: Add support for multiple languages in your application.
 - Language Files: Manage translations using Laravel language files.
+
+### Single Page Applications (SPA) with Laravel
+
+- Vue.js Integration: Build dynamic SPAs using Vue.js with Laravel.
+- Inertia.js: Use Inertia.js to create SPAs without an API.
