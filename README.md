@@ -34,6 +34,7 @@ Here are some additional resources to help you learn Laravel:
 - [Custom Artisan Commands](#Custom-Artisan-Commands)
 - [Localization](#Localization)
 - [Single Page Applications (SPA) with Laravel](Single-Page-Applications-(SPA)-with-Laravel)
+- [Laravel-Nova](#Laravel-Nova)
 
 
 ## Introduction
@@ -179,3 +180,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Vue.js Integration: Build dynamic SPAs using Vue.js with Laravel.
 - Inertia.js: Use Inertia.js to create SPAs without an API.
+
+### Laravel Nova
+
+- Admin Panel: Explore Laravel Nova for building beautiful and fully customizable admin panels.
+- Custom Tools and Resources: Extend Nova with custom tools, cards, and resources.
