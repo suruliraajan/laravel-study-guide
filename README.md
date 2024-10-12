@@ -34,7 +34,8 @@ Here are some additional resources to help you learn Laravel:
 - [Custom Artisan Commands](#Custom-Artisan-Commands)
 - [Localization](#Localization)
 - [Single Page Applications (SPA) with Laravel](Single-Page-Applications-(SPA)-with-Laravel)
-- [Laravel-Nova](#Laravel-Nova)
+- [Laravel Nova](#Laravel-Nova)
+- [Event Sourcing](#Event-Sourcing)
 
 
 ## Introduction
@@ -185,3 +186,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Admin Panel: Explore Laravel Nova for building beautiful and fully customizable admin panels.
 - Custom Tools and Resources: Extend Nova with custom tools, cards, and resources.
+
+### Event Sourcing
+
+- Event Sourcing Concepts: Learn how to use event sourcing in Laravel applications to track all changes to your application state as a series of events.
