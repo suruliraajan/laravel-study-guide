@@ -101,6 +101,8 @@ Laravel's Eloquent ORM provides a beautiful, simple ActiveRecord implementation 
 	- [https://www.youtube.com/playlist?list=PL1JpS8jP1wgA7YIkG5pJDa0XwvonK-mQR]
 - Eloquent Querying Relationships
 	- [https://www.youtube.com/playlist?list=PL1JpS8jP1wgBXWb3YmpoVU7yQj4ka1GuG]
+- Eloquent Advanced Relationships
+	- [https://www.youtube.com/playlist?list=PL2DahmvUpeuv2VgLKcR20-jwSFdugNBzG]
 
 ### Authentication 
 
