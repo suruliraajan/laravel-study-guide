@@ -40,7 +40,7 @@ Here are some additional resources to help you learn Laravel:
 
 ## Introduction
 
-Laravel is a powerful and flexible PHP framework designed for developers who need an elegant, yet simple toolkit to build web applications. This guide aims to simplify your learning process by providing clear explanations, code examples, and exercises.
+Laravel is a powerful and flexible PHP framework designed for developers who need an elegant, yet simple toolkit to build web applications. This guide aims to simplify your learning process by providing clear explanations, code examples, exercises and more.
 
 ## Getting Started
 
