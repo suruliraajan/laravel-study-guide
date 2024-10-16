@@ -10,6 +10,16 @@ Here are some additional resources to help you learn Laravel:
 - [Laracasts (Video Tutorials)](https://laracasts.com)
 - [Laravel News](https://laravel-news.com)
 - [Laravel GitHub Repository](https://github.com/laravel/laravel)
+- [Recommended YouTube Channels for Laravel Tutorials](#Recommended-YouTube-Channels-for-Laravel-Tutorials)
+
+## Recommended YouTube Channels for Laravel Tutorials
+
+Here are some highly recommended YouTube channels and playlists that cover a wide range of Laravel topics, from beginner to advanced:
+
+Traversy Media - Laravel Crash Course [https://www.youtube.com/watch?v=ImtZ5yENzgE]
+Brad Traversy is known for creating beginner-friendly crash courses. This crash course is great for getting started with Laravel quickly.
+
+
 
 ## Table of Contents
 
