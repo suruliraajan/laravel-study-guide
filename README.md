@@ -22,6 +22,9 @@ Brad Traversy is known for creating beginner-friendly crash courses. This crash 
 2. Laravel Official Channel - Laravel PHP Framework [https://www.youtube.com/user/laravelphp]
 The official Laravel channel provides tutorials, conference talks, and announcements for new Laravel releases.
 
+3. Academind - Laravel Series [https://www.youtube.com/watch?v=MFh0Fd7BsjE&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_]https://www.youtube.com/watch?v=MFh0Fd7BsjE&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
+Max from Academind has a detailed Laravel series that covers the essentials, including MVC, routes, controllers, models, and Blade templates.
+
 
 
 ## Table of Contents
