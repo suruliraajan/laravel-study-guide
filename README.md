@@ -1,6 +1,6 @@
 # Laravel Study Guide
 
-Welcome to the **Laravel Study Guide**! This repository is a comprehensive resource designed to help you learn Laravel from the ground up. Whether you're a beginner or looking to deepen your understanding of Laravel, this guide provides a structured path to mastering the framework.
+Welcome to the **Laravel Study Guide**! This repository is a comprehensive resource designed to help you learn Laravel from the ground up. Whether you are a beginner or looking to deepen your understanding of Laravel, this guide provides a structured path to mastering the framework.
 
 ## Resources
 Here are some additional resources to help you learn Laravel:
@@ -16,8 +16,11 @@ Here are some additional resources to help you learn Laravel:
 
 Here are some highly recommended YouTube channels and playlists that cover a wide range of Laravel topics, from beginner to advanced:
 
-Traversy Media - Laravel Crash Course [https://www.youtube.com/watch?v=ImtZ5yENzgE]
+1. Traversy Media - Laravel Crash Course [https://www.youtube.com/watch?v=ImtZ5yENzgE]
 Brad Traversy is known for creating beginner-friendly crash courses. This crash course is great for getting started with Laravel quickly.
+
+2. Laravel Official Channel - Laravel PHP Framework [https://www.youtube.com/user/laravelphp]
+The official Laravel channel provides tutorials, conference talks, and announcements for new Laravel releases.
 
 
 
