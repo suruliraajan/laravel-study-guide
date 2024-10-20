@@ -25,6 +25,9 @@ The official Laravel channel provides tutorials, conference talks, and announcem
 3. Academind - Laravel Series [https://www.youtube.com/watch?v=MFh0Fd7BsjE&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_]https://www.youtube.com/watch?v=MFh0Fd7BsjE&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
 Max from Academind has a detailed Laravel series that covers the essentials, including MVC, routes, controllers, models, and Blade templates.
 
+4. Learn with Jon - Laravel Crash Course [https://www.youtube.com/playlist?list=PL38wFHH4qYZXH8Gb7PIbmyjdsWdEJLImp]
+This channel covers various Laravel topics from the basics to more advanced concepts like API development and authentication.
+
 
 
 ## Table of Contents
