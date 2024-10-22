@@ -30,7 +30,7 @@ This channel covers various Laravel topics from the basics to more advanced conc
 
 5. Laravel Daily - Povilas Korop Tutorials [https://www.youtube.com/@LaravelDaily]
 This channel is fantastic for short, focused tutorials on various Laravel topics, including Eloquent tips, Blade templates, validation, testing, and more.
-It also covers more niche topics like job queues, notifications, and real-world scenarios.
+It also covers more niche topics like job queues, notifications, and real world scenarios.
 
 
 
