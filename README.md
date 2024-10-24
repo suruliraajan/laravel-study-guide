@@ -34,6 +34,9 @@ This channel covers various Laravel topics from the basics to more advanced conc
 This channel is fantastic for short, focused tutorials on various Laravel topics, including Eloquent tips, Blade templates, validation, testing, and more.
 It also covers more niche topics like job queues, notifications, and real world scenarios.
 
+6. Codecourse - Laravel Series [https://www.youtube.com/@codecourse]
+Codecourse provides in-depth tutorials focusing on practical application development using Laravel.
+
 
 
 ## Table of Contents
