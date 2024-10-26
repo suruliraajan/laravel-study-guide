@@ -21,8 +21,8 @@ Here are some highly recommended YouTube channels and playlists that cover a wid
 	- Laravel Crash Course - 2 [https://www.youtube.com/watch?v=MFh0Fd7BsjE]
 
 
-2. Laravel Official Channel - Laravel PHP Framework [https://www.youtube.com/user/laravelphp]
-The official Laravel channel provides tutorials, conference talks, and announcements for new Laravel releases.
+2. Laravel Official Channel - The official Laravel channel provides tutorials, conference talks, and announcements for new Laravel releases.
+	- Laravel PHP Framework [https://www.youtube.com/laravelphp]
 
 3. Academind - Laravel Series [https://www.youtube.com/watch?v=MFh0Fd7BsjE&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_]https://www.youtube.com/watch?v=MFh0Fd7BsjE&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
 Max from Academind has a detailed Laravel series that covers the essentials, including MVC, routes, controllers, models, and Blade templates.
@@ -36,6 +36,8 @@ It also covers more niche topics like job queues, notifications, and real world 
 
 6. Codecourse - Laravel Series [https://www.youtube.com/@codecourse]
 Codecourse provides in-depth tutorials focusing on practical application development using Laravel.
+
+
 
 
 
