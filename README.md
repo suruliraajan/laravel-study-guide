@@ -20,7 +20,6 @@ Here are some highly recommended YouTube channels and playlists that cover a wid
 	- Laravel Crash Course - 1 [https://www.youtube.com/watch?v=ImtZ5yENzgE]
 	- Laravel Crash Course - 2 [https://www.youtube.com/watch?v=MFh0Fd7BsjE]
 
-
 2. Laravel Official Channel - The official Laravel channel provides tutorials, conference talks, and announcements for new Laravel releases.
 	- Laravel PHP Framework [https://www.youtube.com/laravelphp]
 
