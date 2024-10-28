@@ -65,6 +65,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Single Page Applications (SPA) with Laravel](Single-Page-Applications-(SPA)-with-Laravel)
 - [Laravel Nova](#Laravel-Nova)
 - [Event Sourcing](#Event-Sourcing)
+- [Laravel Mix](#Laravel-Mix)
 
 
 ## Introduction
@@ -221,3 +222,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 ### Event Sourcing
 
 - Event Sourcing Concepts: Learn how to use event sourcing in Laravel applications to track all changes to your application state as a series of events.
+
+### Laravel Mix
+
+- Introduction to Laravel Mix for managing frontend assets like CSS, JavaScript, and more.
+- Using Laravel Mix for compiling Sass, Less, and JavaScript.
