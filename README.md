@@ -47,6 +47,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Routing](#routing)
 - [Controllers](#controllers)
 - [Middleware](#middleware)
+- [Custom Middleware](#Custom-Middleware)
 - [Blade Templating](#blade-templating)
 - [Database and Eloquent ORM](#database-and-eloquent-orm)
 - [Authentication](#Authentication)
@@ -108,6 +109,11 @@ Middleware acts as a bridge between a request and a response. Learn how to creat
 - Creating Middleware
 - Registering Middleware
 - Middleware Parameters
+
+### Custom Middleware 
+
+- Creating and using custom middleware.
+- Middleware parameters and how to pass data to middleware.
 
 ### Blade Templating
 
