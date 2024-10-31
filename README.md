@@ -67,6 +67,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Laravel Nova](#Laravel-Nova)
 - [Event Sourcing](#Event-Sourcing)
 - [Laravel Mix](#Laravel-Mix)
+- [API Throttling and Rate Limiting](#API-Throttling-and-Rate-Limiting)
 
 
 ## Introduction
@@ -233,3 +234,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Introduction to Laravel Mix for managing frontend assets like CSS, JavaScript, and more.
 - Using Laravel Mix for compiling Sass, Less, and JavaScript.
+
+### API Throttling and Rate Limiting
+
+- Implementing rate limiting for API routes.
+- Customizing rate limiting logic for different user roles and some conditions.
