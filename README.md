@@ -238,4 +238,4 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 ### API Throttling and Rate Limiting
 
 - Implementing rate limiting for API routes.
-- Customizing rate limiting logic for different user roles and for some other conditions.
+- Customizing rate limiting logic for different user roles and for some other conditions..
