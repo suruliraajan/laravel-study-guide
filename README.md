@@ -233,7 +233,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 ### Laravel Mix
 
 - Introduction to Laravel Mix for managing frontend assets like CSS, JavaScript, and more.
-- Using Laravel Mix for compiling Sass, Less, and JavaScript.
+- Using Laravel Mix for compiling Sass, Less, and JavaScript files.
 
 ### API Throttling and Rate Limiting
 
