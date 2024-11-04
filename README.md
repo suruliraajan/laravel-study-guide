@@ -68,6 +68,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Event Sourcing](#Event-Sourcing)
 - [Laravel Mix](#Laravel-Mix)
 - [API Throttling and Rate Limiting](#API-Throttling-and-Rate-Limiting)
+- [Real time Broadcasting](#Real-time-Broadcasting)
 
 
 ## Introduction
@@ -238,4 +239,10 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 ### API Throttling and Rate Limiting
 
 - Implementing rate limiting for API routes.
-- Customizing rate limiting logic for different user roles and for some other conditions..
+- Customizing rate limiting logic for different user roles and for some other conditions.
+
+### Real time Broadcasting
+
+- Using Laravel Echo for real-time events.
+- Setting up broadcasting with Pusher, Redis, or other drivers.
+- Using channels and broadcasting events.
