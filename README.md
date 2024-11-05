@@ -69,6 +69,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Laravel Mix](#Laravel-Mix)
 - [API Throttling and Rate Limiting](#API-Throttling-and-Rate-Limiting)
 - [Real time Broadcasting](#Real-time-Broadcasting)
+- [Dependency Injection and Service Container](#Dependency-Injection-and-Service-Container)
 
 
 ## Introduction
@@ -246,3 +247,9 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Using Laravel Echo for real-time events.
 - Setting up broadcasting with Pusher, Redis, or other drivers.
 - Using channels and broadcasting events.
+
+### Dependency Injection and Service Container
+
+- Understanding dependency injection in Laravel.
+- Binding services into the service container.
+- Using dependency injection in controllers, routes, and commands.
