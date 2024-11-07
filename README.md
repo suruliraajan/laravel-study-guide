@@ -71,6 +71,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Real time Broadcasting](#Real-time-Broadcasting)
 - [Dependency Injection and Service Container](#Dependency-Injection-and-Service-Container)
 - [Advanced Validation](#Advanced-Validation)
+- [Custom Error Pages](#Custom-Error-Pages)
 
 
 ## Introduction
@@ -259,3 +260,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Custom validation rules and creating custom rule classes.
 - Conditional validation logic using sometimes() and required_if.
+
+### Custom Error Pages
+
+- Customizing the default error pages (404, 500, etc.).
+- Using Blade templates for custom error pages.
