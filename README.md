@@ -72,6 +72,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Dependency Injection and Service Container](#Dependency-Injection-and-Service-Container)
 - [Advanced Validation](#Advanced-Validation)
 - [Custom Error Pages](#Custom-Error-Pages)
+- [Laravel Sanctum](#Laravel-Sanctum)
 
 
 ## Introduction
@@ -265,3 +266,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Customizing the default error pages (404, 500, etc.).
 - Using Blade templates for custom error pages.
+
+### Laravel Sanctum
+
+- Setting up Laravel Sanctum for API authentication.
+- Using tokens for single-page applications (SPAs).
