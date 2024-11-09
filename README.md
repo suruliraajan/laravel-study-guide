@@ -73,6 +73,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Advanced Validation](#Advanced-Validation)
 - [Custom Error Pages](#Custom-Error-Pages)
 - [Laravel Sanctum](#Laravel-Sanctum)
+- [Laravel Dusk](#Laravel-Dusk)
 
 
 ## Introduction
@@ -271,3 +272,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Setting up Laravel Sanctum for API authentication.
 - Using tokens for single-page applications (SPAs).
+
+### Laravel Dusk
+
+- Browser testing with Laravel Dusk.
+- Writing and running automated browser tests.
