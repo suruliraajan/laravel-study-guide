@@ -276,4 +276,4 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 ### Laravel Dusk
 
 - Browser testing with Laravel Dusk.
-- Writing and running automated browser tests.
+- Writing and running automated browser tests..
