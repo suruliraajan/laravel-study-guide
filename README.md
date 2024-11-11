@@ -50,6 +50,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Custom Middleware](#Custom-Middleware)
 - [Blade Templating](#blade-templating)
 - [Database and Eloquent ORM](#database-and-eloquent-orm)
+- [Database Optimization](#Database-Optimization)
 - [Authentication](#Authentication)
 - [Service Container and Dependency Injection](#Service-Container-and-Dependency-Injection)
 - [Service Providers](#Service-Providers)
@@ -146,6 +147,12 @@ Laravel's Eloquent ORM provides a beautiful, simple ActiveRecord implementation 
 	- [https://www.youtube.com/playlist?list=PL1JpS8jP1wgBXWb3YmpoVU7yQj4ka1GuG]
 - Eloquent Advanced Relationships
 	- [https://www.youtube.com/playlist?list=PL2DahmvUpeuv2VgLKcR20-jwSFdugNBzG]
+	
+### Database Optimization
+
+- Indexing and optimizing queries for better performance.
+- Using caching to optimize Eloquent queries.
+- Understanding the Query Log and database profiling.
 
 ### Authentication 
 
