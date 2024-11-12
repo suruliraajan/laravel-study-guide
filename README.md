@@ -75,6 +75,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Custom Error Pages](#Custom-Error-Pages)
 - [Laravel Sanctum](#Laravel-Sanctum)
 - [Laravel Dusk](#Laravel-Dusk)
+- [Setting Up Continuous Integration (CI) for Laravel Projects](#Setting-Up-Continuous-Integration-(CI)-for-Laravel-Projects)
 
 
 ## Introduction
@@ -283,4 +284,9 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 ### Laravel Dusk
 
 - Browser testing with Laravel Dusk.
-- Writing and running automated browser tests..
+- Writing and running automated browser tests.
+
+### Setting Up Continuous Integration (CI) for Laravel Projects
+
+- Integrating CI tools like GitHub Actions or GitLab CI.
+- Running tests and deployment scripts through CI pipelines.
