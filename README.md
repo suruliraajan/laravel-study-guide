@@ -76,6 +76,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Laravel Sanctum](#Laravel-Sanctum)
 - [Laravel Dusk](#Laravel-Dusk)
 - [Setting Up Continuous Integration (CI) for Laravel Projects](#Setting-Up-Continuous-Integration-(CI)-for-Laravel-Projects)
+- [Laravel Core Structure](#Laravel Core Structure)
 
 
 ## Introduction
@@ -290,3 +291,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Integrating CI tools like GitHub Actions or GitLab CI.
 - Running tests and deployment scripts through CI pipelines.
+
+### Laravel Core Structure
+ 
+- Deep dive into Laravel’s core files and directory structure.
+- Exploring Illuminate and Foundation packages.
