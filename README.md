@@ -37,9 +37,6 @@ It also covers more niche topics like job queues, notifications, and real world 
 Codecourse provides in-depth tutorials focusing on practical application development using Laravel.
 
 
-
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -77,6 +74,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Laravel Dusk](#Laravel-Dusk)
 - [Setting Up Continuous Integration (CI) for Laravel Projects](#Setting-Up-Continuous-Integration-(CI)-for-Laravel-Projects)
 - [Laravel Core Structure](#Laravel Core Structure)
+- [Laravel Plugins](#laravel-Plugins)
 
 
 ## Introduction
@@ -296,3 +294,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
  
 - Deep dive into Laravel’s core files and directory structure.
 - Exploring Illuminate and Foundation packages.
+
+### Laravel Plugins
+
+- Top 10 Laravel Plugins
+	[https://blog.stackademic.com/top-10-laravel-plugins-d7786e9ceb02]
