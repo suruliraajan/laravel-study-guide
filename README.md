@@ -208,6 +208,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Route Caching: Optimize route loading by caching your routes.
 - Config Caching: Speed up your application by caching configuration files.
 
+	- [https://summonshr.medium.com/the-7-levels-of-laravel-optimization-from-rookie-to-optimization-overlord-with-benchmark-49009488419b]
+
 ### File Storage
 
 - Storage Facade: Learn how to use Laravel’s storage facade to manage file uploads, downloads, and storage across different disk drivers (local, Amazon S3, etc.).
