@@ -302,3 +302,4 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 - Top 10 Laravel Plugins
 	[https://blog.stackademic.com/top-10-laravel-plugins-d7786e9ceb02]
+	[https://laravel-news.com/laravel-seo-honeystone?ref=dailydev]
