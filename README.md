@@ -75,6 +75,7 @@ Codecourse provides in-depth tutorials focusing on practical application develop
 - [Setting Up Continuous Integration (CI) for Laravel Projects](#Setting-Up-Continuous-Integration-(CI)-for-Laravel-Projects)
 - [Laravel Core Structure](#Laravel Core Structure)
 - [Laravel Plugins](#laravel-Plugins)
+- [Useful Links](#Useful-Links)
 
 
 ## Introduction
@@ -303,3 +304,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Top 10 Laravel Plugins
 	[https://blog.stackademic.com/top-10-laravel-plugins-d7786e9ceb02]
 	[https://laravel-news.com/laravel-seo-honeystone?ref=dailydev]
+	
+### Useful Links
+
+- Upload Files in Laravel [https://devdojo.com/inspector/upload-file-in-laravel?ref=dailydev]
