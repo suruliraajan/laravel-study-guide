@@ -177,7 +177,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 
 ### Queues and Jobs
 
-- Queueing System: Laravel's built-in queue system allows you to defer the processing of time-consuming tasks, such as sending emails, until later.
+- Queueing Systems: Laravel's built-in queue system allows you to defer the processing of time-consuming tasks, such as sending emails, until later.
 - Job Dispatching: Learn how to dispatch jobs to different queues.
 - Queue Workers: Understand how to run and manage queue workers, and how to configure different queue drivers like Redis or Amazon SQS.
 
