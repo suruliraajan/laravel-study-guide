@@ -308,3 +308,4 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 ### Useful Links
 
 - Upload Files in Laravel [https://devdojo.com/inspector/upload-file-in-laravel?ref=dailydev]
+- Serverless Search using Laravel and the Typesense Cloud [https://laravel-news.com/serverless-search-laravel-typesense]
