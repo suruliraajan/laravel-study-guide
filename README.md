@@ -87,7 +87,7 @@ Laravel is a powerful and flexible PHP framework designed for developers who nee
 
 ### Prerequisites
 
-Before diving into Laravel, make sure you have the following installed on your machine:
+Before diving into the Laravel, make sure you have the following installed on your machine:
 
 - PHP (>= 8.0)
 - Composer
