@@ -314,6 +314,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Notify me! Using Laravel 11 and FCM[https://medium.com/@yacine.superieut/notify-me-using-laravel-and-fcm-fd5d3caccaaa]
 - Laravel guide for React developers [https://www.luckymedia.dev/blog/laravel-guide-for-react-developers]
 - A Golang framework for web artisans. Tribute to Laravel. [https://app.daily.dev/posts/goravel-goravel-a-golang-framework-for-web-artisans-tribute-to-laravel--fovma8ckq]
+- Laravel groupBy Full Code Example [https://postsrc.com/code-snippets/laravel-group-by-full-code-example]
+
 ### TALL Stack Development
 
 - The TALL stack is a modern web development solution that combines four key technologies:
