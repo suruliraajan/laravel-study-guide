@@ -315,6 +315,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel guide for React developers [https://www.luckymedia.dev/blog/laravel-guide-for-react-developers]
 - A Golang framework for web artisans. Tribute to Laravel. [https://app.daily.dev/posts/goravel-goravel-a-golang-framework-for-web-artisans-tribute-to-laravel--fovma8ckq]
 - Laravel groupBy Full Code Example [https://postsrc.com/code-snippets/laravel-group-by-full-code-example]
+- Laravel Handle Queue Jobs Asynchronously [https://dev.to/devmahfuz/php-is-a-single-threaded-language-so-how-does-laravel-handle-queue-jobs-asynchronously-5dgc]
 
 ### TALL Stack Development
 
