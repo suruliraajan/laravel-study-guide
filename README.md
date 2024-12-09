@@ -16,7 +16,7 @@ Here are some additional resources to help you learn Laravel:
 
 Here are some highly recommended YouTube channels and playlists that cover a wide range of Laravel topics, from beginner to advanced:
 
-1. Traversy Media - Brad Traversy is known for creating beginner-friendly crash courses. This crash course is great for getting started with Laravel quickly.
+1. Traversy Media - Brad Traversy is known for creating beginner friendly crash courses. This crash course is great for getting started with Laravel quickly.
 	- Laravel Crash Course - 1 [https://www.youtube.com/watch?v=ImtZ5yENzgE]
 	- Laravel Crash Course - 2 [https://www.youtube.com/watch?v=MFh0Fd7BsjE]
 
