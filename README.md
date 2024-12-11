@@ -87,7 +87,7 @@ Laravel is a powerful and flexible PHP framework designed for developers who nee
 
 ### Prerequisites
 
-Before diving into the Laravel, make sure you have the following installed on your machine:
+Before diving into the Laravel make sure you have the following installed on your machine:
 
 - PHP (>= 8.0)
 - Composer
@@ -320,6 +320,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Get Total Relationship Count [https://postsrc.com/code-snippets/laravel-get-total-relaionship-count]
 - 7 Level’s of Laravel Optimiztion [https://summonshr.medium.com/the-7-levels-of-laravel-optimization-from-rookie-to-optimization-overlord-with-benchmark-49009488419b]
 - Laravel Nova vs Filament: The Best Admin Panels [https://dev.to/varzoeaa/laravel-nova-vs-filament-the-best-admin-panels-5f9a]
+- reCAPTCHA in PHP within minutes [https://featuredeveloper.blogspot.com/2024/05/recaptcha-in-php-within-minutes.html]
 
 ### TALL Stack Development
 
