@@ -318,10 +318,11 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Handle Queue Jobs Asynchronously [https://dev.to/devmahfuz/php-is-a-single-threaded-language-so-how-does-laravel-handle-queue-jobs-asynchronously-5dgc]
 - Laravel Inertia Nav Link Component [https://postsrc.com/code-snippets/laravel-inertia-nav-link-component]
 - Laravel Get Total Relationship Count [https://postsrc.com/code-snippets/laravel-get-total-relaionship-count]
-- 7 Level’s of Laravel Optimiztion [https://summonshr.medium.com/the-7-levels-of-laravel-optimization-from-rookie-to-optimization-overlord-with-benchmark-49009488419b]
+- Seven Level’s of Laravel Optimiztion [https://summonshr.medium.com/the-7-levels-of-laravel-optimization-from-rookie-to-optimization-overlord-with-benchmark-49009488419b]
 - Laravel Nova vs Filament: The Best Admin Panels [https://dev.to/varzoeaa/laravel-nova-vs-filament-the-best-admin-panels-5f9a]
 - reCAPTCHA in PHP within minutes [https://featuredeveloper.blogspot.com/2024/05/recaptcha-in-php-within-minutes.html]
 - Laravel on any Developer Machine with Gitpod [https://laravel-news.com/laravel-on-any-developer-machine-with-gitpod]
+- Make 5x faster outbound requests in Laravel [https://aaronfrancis.com/2024/make-5x-faster-outbound-requests-in-laravel-192e8e98]
 
 ### TALL Stack Development
 
