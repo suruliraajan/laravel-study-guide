@@ -323,6 +323,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - reCAPTCHA in PHP within minutes [https://featuredeveloper.blogspot.com/2024/05/recaptcha-in-php-within-minutes.html]
 - Laravel on any Developer Machine with Gitpod [https://laravel-news.com/laravel-on-any-developer-machine-with-gitpod]
 - Make 5x faster outbound requests in Laravel [https://aaronfrancis.com/2024/make-5x-faster-outbound-requests-in-laravel-192e8e98]
+- Cancel a Specific Batch of Queued Jobs With This Laravel Package [https://laravel-news.com/cancel-a-specific-batch-in-laravel]
 
 ### TALL Stack Development
 
