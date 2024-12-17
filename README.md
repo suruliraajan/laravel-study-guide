@@ -325,6 +325,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Make 5x faster outbound requests in Laravel [https://aaronfrancis.com/2024/make-5x-faster-outbound-requests-in-laravel-192e8e98]
 - Cancel a Specific Batch of Queued Jobs With This Laravel Package [https://laravel-news.com/cancel-a-specific-batch-in-laravel]
 - Laravel Advanced Problem-Solving Quiz [https://quizapi.io/predefined-quizzes/laravel-advanced-problem-solving-quiz]
+- How do I deploy my Laravel applications using Github Action [https://achyutneupane.medium.com/how-do-i-deploy-my-laravel-applications-using-github-action-ebb2c0a79e8f]
 
 ### TALL Stack Development
 
