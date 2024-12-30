@@ -328,7 +328,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - How do I deploy my Laravel applications using Github Action [https://achyutneupane.medium.com/how-do-i-deploy-my-laravel-applications-using-github-action-ebb2c0a79e8f]
 - Laravel 11 Middleware Configuration: A Comprehensive Guide [https://dev.to/bhaidar/laravel-11-middleware-configuration-a-comprehensive-guide-1lic]
 - Laravel Nova 5.0 Now Available [https://blog.laravel.com/laravel-nova-5-now-available]
-- Access Request Data Fluently in Laravel 11.34 [https://laravel-news.com/laravel-11-34-0]
+- Access Request Data Fluently in Laravel 11.34 version [https://laravel-news.com/laravel-11-34-0]
 
 ### TALL Stack Development
 
