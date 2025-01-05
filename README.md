@@ -332,6 +332,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - In Laravel, always use the env() within config files and nowhere else [https://dev.to/tkouleris/in-laravel-always-use-the-env-within-config-files-and-nowhere-else-3823]
 - Wirechat A Robust Laravel Livewire chat Packages [https://app.daily.dev/posts/wirechat---a-robust-laravel-livewire-chat-package-bpmqkzweh]
 - File Manager Package for Livewire [https://laravel-news.com/file-manager-package-for-livewire]
+- Converting Laravel Models to JSON for API Responses [https://laravel-news.com/toJson]
 
 ### TALL Stack Development
 
