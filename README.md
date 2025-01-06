@@ -333,6 +333,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Wirechat A Robust Laravel Livewire chat Packages [https://app.daily.dev/posts/wirechat---a-robust-laravel-livewire-chat-package-bpmqkzweh]
 - File Manager Package for Livewire [https://laravel-news.com/file-manager-package-for-livewire]
 - Converting Laravel Models to JSON for API Responses [https://laravel-news.com/toJson]
+- Using AI to Manage Translations in Laravel [https://laravel-news.com/using-ai-to-manage-translations-in-laravel]
 
 ### TALL Stack Development
 
