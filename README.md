@@ -335,6 +335,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Converting Laravel Models to JSON for API Responses [https://laravel-news.com/toJson]
 - Using AI to Manage Translations in Laravel [https://laravel-news.com/using-ai-to-manage-translations-in-laravel]
 - Customizing Model Date Formats in Laravel [https://laravel-news.com/date-formats]
+- For Fixes for Property on Null Error in laravel[https://www.youtube.com/watch?v=YJZ0VGYrVio]
+- Laravel Livewire Crash Course [https://www.youtube.com/watch?v=bkoJyn8hg5k]
 
 ### TALL Stack Development
 
