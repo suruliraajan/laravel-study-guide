@@ -337,6 +337,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Customizing Model Date Formats in Laravel [https://laravel-news.com/date-formats]
 - For Fixes for Property on Null Error in laravel[https://www.youtube.com/watch?v=YJZ0VGYrVio]
 - Laravel Livewire Crash Course [https://www.youtube.com/watch?v=bkoJyn8hg5k]
+- Laravel Policies: Add Custom Methods [https://www.youtube.com/watch?v=PO7NXcYcdds]
 
 ### TALL Stack Development
 
