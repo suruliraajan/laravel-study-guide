@@ -338,6 +338,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - For Fixes for Property on Null Error in laravel[https://www.youtube.com/watch?v=YJZ0VGYrVio]
 - Laravel Livewire Crash Course [https://www.youtube.com/watch?v=bkoJyn8hg5k]
 - Laravel Policies: Add Custom Methods [https://www.youtube.com/watch?v=PO7NXcYcdds]
+- 10 Simple Laravel Interview Questions [https://quizapi.io/predefined-quizzes/10-simple-laravel-interview-questions]
 
 ### TALL Stack Development
 
