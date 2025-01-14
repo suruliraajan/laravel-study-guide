@@ -341,6 +341,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 10 Simple Laravel Interview Questions [https://quizapi.io/predefined-quizzes/10-simple-laravel-interview-questions]
 - Using 1password for Laravel environment variables [https://freek.dev/2769-using-1password-for-laravel-environment-variables]
 - Automated API documentation of Laravel API resources [https://laravel-news.com/automated-api-documentation-of-laravel-api-resources]
+- PHP & Laravel running natively on iOS [https://app.daily.dev/posts/php-laravel-running-natively-on-ios-glckxiolx]
 
 ### TALL Stack Development
 
