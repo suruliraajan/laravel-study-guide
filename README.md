@@ -344,6 +344,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - PHP & Laravel running natively on iOS [https://app.daily.dev/posts/php-laravel-running-natively-on-ios-glckxiolx]
 - A Laravel Package to Use the Deepseek API With V3 AI Models [https://laravel-news.com/deepseek-laravel]
 - Laravel Authentication Tutorial #6 - Logging Users In [https://www.youtube.com/watch?v=TwdVGN_AlPM]
+- Laravel CRUD: 15+ Questions to Solve [https://www.youtube.com/watch?v=S2xTVFsZyCM]
 
 ### TALL Stack Development
 
