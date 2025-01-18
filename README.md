@@ -345,6 +345,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - A Laravel Package to Use the Deepseek API With V3 AI Models [https://laravel-news.com/deepseek-laravel]
 - Laravel Authentication Tutorial #6 - Logging Users In [https://www.youtube.com/watch?v=TwdVGN_AlPM]
 - Laravel CRUD: 15+ Questions to Solve [https://www.youtube.com/watch?v=S2xTVFsZyCM]
+- Create GitHub Issues from Exceptions and Logs in Laravel [https://laravel-news.com/create-github-issues-from-exceptions-and-logs-in-laravel]
 
 ### TALL Stack Development
 
