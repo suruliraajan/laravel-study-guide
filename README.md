@@ -346,6 +346,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Authentication Tutorial #6 - Logging Users In [https://www.youtube.com/watch?v=TwdVGN_AlPM]
 - Laravel CRUD: 15+ Questions to Solve [https://www.youtube.com/watch?v=S2xTVFsZyCM]
 - Create GitHub Issues from Exceptions and Logs in Laravel [https://laravel-news.com/create-github-issues-from-exceptions-and-logs-in-laravel]
+- Interactive Console Commands in Laravel [https://laravel-news.com/interactive-console-commands]
 
 ### TALL Stack Development
 
