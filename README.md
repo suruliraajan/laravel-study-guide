@@ -347,6 +347,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel CRUD: 15+ Questions to Solve [https://www.youtube.com/watch?v=S2xTVFsZyCM]
 - Create GitHub Issues from Exceptions and Logs in Laravel [https://laravel-news.com/create-github-issues-from-exceptions-and-logs-in-laravel]
 - Interactive Console Commands in Laravel [https://laravel-news.com/interactive-console-commands]
+- Laravel Rewind is a Versioning Package for Eloquent [https://laravel-news.com/laravel-rewind-eloquent-versioning]
 
 ### TALL Stack Development
 
