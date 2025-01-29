@@ -352,6 +352,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Mix vs Vite: Why did Laravel Transitioned to Vite [https://dev.to/varzoeaa/laravel-mix-vs-vite-why-did-laravel-transitioned-to-vite-2k25]
 - New Eloquent Relation Existence Methods in Laravel 11.37 [https://laravel-news.com/laravel-11-37-0]
 - Integrating Web Sockets in Laravel via Pusher [https://medium.com/@raiyanmemon/integrating-web-sockets-in-laravel-via-pusher-044166a8bfe1]
+- Laravel SpaceOCR: Parse Images and Multi-page PDFs in Laravel [https://laravel-news.com/laravel-spaceocr]
 
 ### TALL Stack Development
 
