@@ -354,6 +354,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Integrating Web Sockets in Laravel via Pusher [https://medium.com/@raiyanmemon/integrating-web-sockets-in-laravel-via-pusher-044166a8bfe1]
 - Laravel SpaceOCR: Parse Images and Multi-page PDFs in Laravel [https://laravel-news.com/laravel-spaceocr]
 - 18 Tips to optimize laravel database queries [https://dudi.dev/optimize-laravel-database-queries/]
+- 10 Simple Laravel Interview Questions [https://quizapi.io/predefined-quizzes/10-simple-laravel-interview-questions]
 
 ### TALL Stack Development
 
