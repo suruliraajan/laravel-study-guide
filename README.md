@@ -356,6 +356,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 18 Tips to optimize laravel database queries [https://dudi.dev/optimize-laravel-database-queries/]
 - 10 Simple Laravel Interview Questions [https://quizapi.io/predefined-quizzes/10-simple-laravel-interview-questions]
 - Essential Laravel Commands Every Developer Should Know [https://dev.to/thedevricha/essential-laravel-commands-every-developer-should-know-5c04]
+- Livewire Crash Course: Creating and Enhancing Page Components [https://app.daily.dev/posts/livewire-crash-course-creating-and-enhancing-page-components-lz33cdto7]
 
 ### TALL Stack Development
 
