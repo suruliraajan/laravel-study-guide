@@ -357,6 +357,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 10 Simple Laravel Interview Questions [https://quizapi.io/predefined-quizzes/10-simple-laravel-interview-questions]
 - Essential Laravel Commands Every Developer Should Know [https://dev.to/thedevricha/essential-laravel-commands-every-developer-should-know-5c04]
 - Livewire Crash Course: Creating and Enhancing Page Components [https://app.daily.dev/posts/livewire-crash-course-creating-and-enhancing-page-components-lz33cdto7]
+- Open Telemetry Package for Laravel [https://laravel-news.com/laraotel-opentelemetry-package-for-laravel]
 
 ### TALL Stack Development
 
