@@ -359,6 +359,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Livewire Crash Course: Creating and Enhancing Page Components [https://app.daily.dev/posts/livewire-crash-course-creating-and-enhancing-page-components-lz33cdto7]
 - Open Telemetry Package for Laravel [https://laravel-news.com/laraotel-opentelemetry-package-for-laravel]
 - A Package to Manage Model Status in Laravel [https://app.daily.dev/posts/a-package-to-manage-model-status-in-laravel-r6icf8gaf]
+- Handling Missing Request Data in Laravel [https://laravel-news.com/handling-missing-request-data]
 
 ### TALL Stack Development
 
