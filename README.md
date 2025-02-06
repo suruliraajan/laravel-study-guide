@@ -360,6 +360,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Open Telemetry Package for Laravel [https://laravel-news.com/laraotel-opentelemetry-package-for-laravel]
 - A Package to Manage Model Status in Laravel [https://app.daily.dev/posts/a-package-to-manage-model-status-in-laravel-r6icf8gaf]
 - Handling Missing Request Data in Laravel [https://laravel-news.com/handling-missing-request-data]
+- Laravel Security Guide: Preventing Hack Attempts [https://app.daily.dev/posts/laravel-security-guide-preventing-hack-attempts-dkhkunqxs]
 
 ### TALL Stack Development
 
