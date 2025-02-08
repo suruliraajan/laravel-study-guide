@@ -362,6 +362,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Handling Missing Request Data in Laravel [https://laravel-news.com/handling-missing-request-data]
 - Laravel Security Guide: Preventing Hack Attempts [https://app.daily.dev/posts/laravel-security-guide-preventing-hack-attempts-dkhkunqxs]
 - An Introduction to Laravel Queues and Temporary URLs [https://www.thisdot.co/blog/an-introduction-to-laravel-queues-and-temporary-urls]
+- Advanced Laravel Concepts: A Developer Guide for Senior Roles [https://medium.com/@khouloud.haddad/advanced-laravel-concepts-a-developer-guide-for-senior-roles-5c9409df4d28]
 
 ### TALL Stack Development
 
