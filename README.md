@@ -364,6 +364,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - An Introduction to Laravel Queues and Temporary URLs [https://www.thisdot.co/blog/an-introduction-to-laravel-queues-and-temporary-urls]
 - Advanced Laravel Concepts: A Developer Guide for Senior Roles [https://medium.com/@khouloud.haddad/advanced-laravel-concepts-a-developer-guide-for-senior-roles-5c9409df4d28]
 - Tim Leland: URL Shorteners, browser extensions, and more [https://laravel-news.com/tim-leland]
+- How to document multiple APIs in Laravel with Scramble [https://laravel-news.com/how-to-document-multiple-apis-in-laravel-with-scramble]
 
 ### TALL Stack Development
 
