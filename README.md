@@ -365,6 +365,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Advanced Laravel Concepts: A Developer Guide for Senior Roles [https://medium.com/@khouloud.haddad/advanced-laravel-concepts-a-developer-guide-for-senior-roles-5c9409df4d28]
 - Tim Leland: URL Shorteners, browser extensions, and more [https://laravel-news.com/tim-leland]
 - How to document multiple APIs in Laravel with Scramble [https://laravel-news.com/how-to-document-multiple-apis-in-laravel-with-scramble]
+- Boost Your SEO with Laravel Slugify [https://medium.com/@h.ghorashi/boost-your-seo-with-laravel-slugify-9a3856797696]
 
 ### TALL Stack Development
 
