@@ -367,6 +367,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - How to document multiple APIs in Laravel with Scramble [https://laravel-news.com/how-to-document-multiple-apis-in-laravel-with-scramble]
 - Boost Your SEO with Laravel Slugify [https://medium.com/@h.ghorashi/boost-your-seo-with-laravel-slugify-9a3856797696]
 - Five Practical Tips to Improve Search in Laravel Apps With Typesense [https://tighten.com/insights/five-practical-tips-to-improve-search-in-laravel-apps-with-typesense/]
+- First Factor One-Time Passwords for Laravel with OTPZ [https://laravel-news.com/otpz]
 
 ### TALL Stack Development
 
