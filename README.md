@@ -368,6 +368,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Boost Your SEO with Laravel Slugify [https://medium.com/@h.ghorashi/boost-your-seo-with-laravel-slugify-9a3856797696]
 - Five Practical Tips to Improve Search in Laravel Apps With Typesense [https://tighten.com/insights/five-practical-tips-to-improve-search-in-laravel-apps-with-typesense/]
 - First Factor One-Time Passwords for Laravel with OTPZ [https://laravel-news.com/otpz]
+- Unorthodox Monoliths in Laravel [https://freek.dev/2817-unorthodox-monoliths-in-laravel]
 
 ### TALL Stack Development
 
