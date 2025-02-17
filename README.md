@@ -370,6 +370,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - First Factor One-Time Passwords for Laravel with OTPZ [https://laravel-news.com/otpz]
 - Unorthodox Monoliths in Laravel [https://freek.dev/2817-unorthodox-monoliths-in-laravel]
 - Advanced Authorization methods in Laravel [https://juststeveking.com/articles/advanced-authorization-methods-in-laravel/]
+- Auto-Redirect Logged-In Users from Homepage [https://www.youtube.com/watch?v=cHeoWIt8S64]
 
 ### TALL Stack Development
 
