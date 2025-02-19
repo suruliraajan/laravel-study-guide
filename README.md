@@ -372,6 +372,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Advanced Authorization methods in Laravel [https://juststeveking.com/articles/advanced-authorization-methods-in-laravel/]
 - Auto-Redirect Logged-In Users from Homepage [https://www.youtube.com/watch?v=cHeoWIt8S64]
 - Manage Metadata on Laravel Eloquent Models with JSON Support [https://laravel-news.com/manage-metadata-on-laravel-eloquent-models-with-json-support]
+- Working with JSON Attributes Using Laravel's Array Casts [https://laravel-news.com/json-attributes-array-casts]
 
 ### TALL Stack Development
 
