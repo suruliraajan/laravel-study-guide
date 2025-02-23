@@ -376,6 +376,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Running Laravel Octane on local host with FrankenPHP & Laravel Herd [https://devdojo.com/tinahammar/running-laravel-octane-on-local-host-with-frankenphp-laravel-herd]
 - Supercharge Your Laravel Development with the Laravel Wow VSCode Extension [https://app.daily.dev/posts/supercharge-your-laravel-development-with-the-laravel-wow-vscode-extension-e80gmzhff]
 - Monitor Every Request in your application with Laravel Telescope [https://medium.com/@raiyanmemon/monitor-every-request-in-your-application-with-laravel-telescope-5a7ec562966e]
+- Laravel Queues Speed Test - Generate 5,000 PDFs [https://www.youtube.com/watch?v=CLZTniuU_fA]
 
 ### TALL Stack Development
 
