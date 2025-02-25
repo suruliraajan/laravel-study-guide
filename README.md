@@ -378,6 +378,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Monitor Every Request in your application with Laravel Telescope [https://medium.com/@raiyanmemon/monitor-every-request-in-your-application-with-laravel-telescope-5a7ec562966e]
 - Laravel Queues Speed Test - Generate 5,000 PDFs [https://www.youtube.com/watch?v=CLZTniuU_fA]
 - Mastering PHP Fibers: A Game-Changer in Concurrency Programming [https://medium.com/@arifhossen.dev/mastering-php-fibers-a-game-changer-in-concurrency-programming-a2a66b3f1448]
+- Packistry is a Self-hosted Composer Repository Made with Laravel [https://laravel-news.com/packistry-is-a-self-hosted-composer-repository-made-with-laravel]
 
 ### TALL Stack Development
 
