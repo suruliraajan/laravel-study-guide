@@ -380,6 +380,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Mastering PHP Fibers: A Game-Changer in Concurrency Programming [https://medium.com/@arifhossen.dev/mastering-php-fibers-a-game-changer-in-concurrency-programming-a2a66b3f1448]
 - Packistry is a Self-hosted Composer Repository Made with Laravel [https://laravel-news.com/packistry-is-a-self-hosted-composer-repository-made-with-laravel]
 - Log requests and responses in Laravel [https://medium.com/@mehhfooz/log-requests-and-responses-in-laravel-f859d1f47b74]
+- Laravel Livewire Crash Course - Validation Rules [https://www.youtube.com/watch?v=KD2whSRsMtg]
 
 ### TALL Stack Development
 
