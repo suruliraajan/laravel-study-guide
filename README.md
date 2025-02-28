@@ -381,6 +381,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Packistry is a Self-hosted Composer Repository Made with Laravel [https://laravel-news.com/packistry-is-a-self-hosted-composer-repository-made-with-laravel]
 - Log requests and responses in Laravel [https://medium.com/@mehhfooz/log-requests-and-responses-in-laravel-f859d1f47b74]
 - Laravel Livewire Crash Course - Validation Rules [https://www.youtube.com/watch?v=KD2whSRsMtg]
+- Laravel Livewire Crash Course - Faster Navigation [https://www.youtube.com/watch?v=1rWOCK6iciE]
 
 ### TALL Stack Development
 
