@@ -382,6 +382,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Log requests and responses in Laravel [https://medium.com/@mehhfooz/log-requests-and-responses-in-laravel-f859d1f47b74]
 - Laravel Livewire Crash Course - Validation Rules [https://www.youtube.com/watch?v=KD2whSRsMtg]
 - Laravel Livewire Crash Course - Faster Navigation [https://www.youtube.com/watch?v=1rWOCK6iciE]
+- Dagger Components: A Powerful Alternative to Laravel Blade Components [https://laravel-news.com/dagger]
 
 ### TALL Stack Development
 
