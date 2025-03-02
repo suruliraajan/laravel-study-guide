@@ -383,6 +383,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Livewire Crash Course - Validation Rules [https://www.youtube.com/watch?v=KD2whSRsMtg]
 - Laravel Livewire Crash Course - Faster Navigation [https://www.youtube.com/watch?v=1rWOCK6iciE]
 - Dagger Components: A Powerful Alternative to Laravel Blade Components [https://laravel-news.com/dagger]
+- Laravel 12: Install Breeze Starter Kit [https://www.youtube.com/watch?v=oLK29lOiKfY]
 
 ### TALL Stack Development
 
