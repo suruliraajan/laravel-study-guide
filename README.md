@@ -384,6 +384,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Livewire Crash Course - Faster Navigation [https://www.youtube.com/watch?v=1rWOCK6iciE]
 - Dagger Components: A Powerful Alternative to Laravel Blade Components [https://laravel-news.com/dagger]
 - Laravel 12: Install Breeze Starter Kit [https://www.youtube.com/watch?v=oLK29lOiKfY]
+- Route bind For Model Binding Resolution Logic In Laravel [https://msamgan.com/routebind-for-model-binding-resolution-logic-in-laravel]
 
 ### TALL Stack Development
 
