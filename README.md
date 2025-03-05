@@ -386,6 +386,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel 12: Install Breeze Starter Kit [https://www.youtube.com/watch?v=oLK29lOiKfY]
 - Route bind For Model Binding Resolution Logic In Laravel [https://msamgan.com/routebind-for-model-binding-resolution-logic-in-laravel]
 - Laravel IDEA v10 [https://laravel-news.com/laravel-idea-v10]
+- Optimize with Smart Caching [https://medium.com/@raiyanmemon/stop-slow-laravel-apps-optimize-with-smart-caching-e7fe7f2be534]
 
 ### TALL Stack Development
 
