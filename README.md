@@ -391,6 +391,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - VILT vs TALL Stack: Choosing the Right Approach for Your Next Laravel Project [https://icreatorstudio.com/blog/vilt-vs-tall-stack]
 - Everything we know about Laravel [https://laravel-news.com/everything-we-know-about-laravel-12]
 - Seamless Document Conversion in Laravel With Docswap [https://laravel-news.com/seamless-document-conversion-in-laravel-with-docswap]
+- Temporary Context Scope in Laravel 12.1 [https://laravel-news.com/laravel-12-1-0]
 
 ### TALL Stack Development
 
