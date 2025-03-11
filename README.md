@@ -393,6 +393,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Seamless Document Conversion in Laravel With Docswap [https://laravel-news.com/seamless-document-conversion-in-laravel-with-docswap]
 - Temporary Context Scope in Laravel 12.1 [https://laravel-news.com/laravel-12-1-0]
 - Level up your Laravel development with Typesense [https://laravel-news.com/level-up-your-laravel-development-with-typesense]
+- Simplified HTTP Response Mocking in Laravel Tests [https://laravel-news.com/simplified-http-response-mocking]
 
 ### TALL Stack Development
 
