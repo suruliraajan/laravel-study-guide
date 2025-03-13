@@ -395,6 +395,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Level up your Laravel development with Typesense [https://laravel-news.com/level-up-your-laravel-development-with-typesense]
 - Simplified HTTP Response Mocking in Laravel Tests [https://laravel-news.com/simplified-http-response-mocking]
 - Laravel 12 Livewire Starter Kit: First CRUD [https://www.youtube.com/watch?v=o237gJQV3MA]
+- Eloquent Relationship Queries in Laravel with whereRelation [https://laravel-news.com/whereRelation]
 
 ### TALL Stack Development
 
