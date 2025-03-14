@@ -396,6 +396,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Simplified HTTP Response Mocking in Laravel Tests [https://laravel-news.com/simplified-http-response-mocking]
 - Laravel 12 Livewire Starter Kit: First CRUD [https://www.youtube.com/watch?v=o237gJQV3MA]
 - Eloquent Relationship Queries in Laravel with whereRelation [https://laravel-news.com/whereRelation]
+- Laravel Custom Role Permission [https://medium.com/@shakil3334426/laravel-custom-role-permission-289e18512eb0]
 
 ### TALL Stack Development
 
