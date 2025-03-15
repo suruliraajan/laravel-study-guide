@@ -397,6 +397,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel 12 Livewire Starter Kit: First CRUD [https://www.youtube.com/watch?v=o237gJQV3MA]
 - Eloquent Relationship Queries in Laravel with whereRelation [https://laravel-news.com/whereRelation]
 - Laravel Custom Role Permission [https://medium.com/@shakil3334426/laravel-custom-role-permission-289e18512eb0]
+- Manage Global Data in Laravel with the World Package [https://laravel-news.com/manage-global-data-in-laravel-with-the-world-package]
 
 ### TALL Stack Development
 
