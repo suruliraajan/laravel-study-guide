@@ -398,6 +398,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Eloquent Relationship Queries in Laravel with whereRelation [https://laravel-news.com/whereRelation]
 - Laravel Custom Role Permission [https://medium.com/@shakil3334426/laravel-custom-role-permission-289e18512eb0]
 - Manage Global Data in Laravel with the World Package [https://laravel-news.com/manage-global-data-in-laravel-with-the-world-package]
+- Laravel MongoDB 5.2 Released: Support for Laravel 12, Laravel Scout, Vector Search, and more [https://laravel-news.com/laravel-mongodb-5-2]
 
 ### TALL Stack Development
 
