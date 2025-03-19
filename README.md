@@ -401,6 +401,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel MongoDB 5.2 Released: Support for Laravel 12, Laravel Scout, Vector Search, and more [https://laravel-news.com/laravel-mongodb-5-2]
 - How Do You Set Cookie Consent in Laravel? [https://dev.to/themeselection/how-do-you-set-cookie-consent-in-laravel-iop]
 - Enhancing Laravel Authorization with Backed Enums [https://laravel-news.com/authorization-backed-enums]
+- Control Hardware Components in Laravel with Pinout [https://laravel-news.com/control-hardware-components-in-laravel-with-pinout]
 
 ### TALL Stack Development
 
