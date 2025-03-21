@@ -402,6 +402,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - How Do You Set Cookie Consent in Laravel? [https://dev.to/themeselection/how-do-you-set-cookie-consent-in-laravel-iop]
 - Enhancing Laravel Authorization with Backed Enums [https://laravel-news.com/authorization-backed-enums]
 - Control Hardware Components in Laravel with Pinout [https://laravel-news.com/control-hardware-components-in-laravel-with-pinout]
+- Streamline Your Laravel Models with Stringable Attributes [https://laravel-news.com/attributes-as-stringable]
 
 ### TALL Stack Development
 
