@@ -403,6 +403,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Enhancing Laravel Authorization with Backed Enums [https://laravel-news.com/authorization-backed-enums]
 - Control Hardware Components in Laravel with Pinout [https://laravel-news.com/control-hardware-components-in-laravel-with-pinout]
 - Streamline Your Laravel Models with Stringable Attributes [https://laravel-news.com/attributes-as-stringable]
+- Use Filament as Laravel Starter Kit [https://www.youtube.com/watch?v=U0vMdj1h1xM]
 
 ### TALL Stack Development
 
