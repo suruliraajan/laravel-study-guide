@@ -405,7 +405,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Streamline Your Laravel Models with Stringable Attributes [https://laravel-news.com/attributes-as-stringable]
 - Use Filament as Laravel Starter Kit [https://www.youtube.com/watch?v=U0vMdj1h1xM]
 - How to UPDATE Laravel Starter Kits? [https://www.youtube.com/watch?v=yRrd3adaR9Y]
-
+- Livewire Starter Kit: Switch Flux to Flowbite [https://www.youtube.com/watch?v=sZhGXtEfT58]
 
 ### TALL Stack Development
 
