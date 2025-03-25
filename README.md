@@ -406,6 +406,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Use Filament as Laravel Starter Kit [https://www.youtube.com/watch?v=U0vMdj1h1xM]
 - How to UPDATE Laravel Starter Kits? [https://www.youtube.com/watch?v=yRrd3adaR9Y]
 - Livewire Starter Kit: Switch Flux to Flowbite [https://www.youtube.com/watch?v=sZhGXtEfT58]
+- Laravel Vue Starter Kit: Custom Page, Menu and Shadcn [https://www.youtube.com/watch?v=Mcl5yGN_Bu8]
 
 ### TALL Stack Development
 
