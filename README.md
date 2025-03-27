@@ -408,6 +408,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Livewire Starter Kit: Switch Flux to Flowbite [https://www.youtube.com/watch?v=sZhGXtEfT58]
 - Laravel Vue Starter Kit: Custom Page, Menu and Shadcn [https://www.youtube.com/watch?v=Mcl5yGN_Bu8]
 - Simple Cookie Consent Package for Laravel [https://laravel-news.com/simple-cookie-consent-packge-for-laravel]
+- Laravel Starter Kits: A New Beginning for Your Next Project [https://blog.laravel.com/laravel-starter-kits-a-new-beginning-for-your-next-project]
 
 ### TALL Stack Development
 
