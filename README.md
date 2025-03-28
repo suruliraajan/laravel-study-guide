@@ -7,7 +7,7 @@ Here are some additional resources to help you learn Laravel:
 
 - [Laravel Official Website](https://laravel.com),
 - [Laravel Documentation](https://laravel.com/docs),
-- [Laracasts (Video Tutorials)](https://laracasts.com),
+- [Laracasts (Video Tutorials)](https://laracasts.com)
 - [Laravel News](https://laravel-news.com)	
 - [Laravel GitHub Repository](https://github.com/laravel/laravel)
 - [Recommended YouTube Channels for Laravel Tutorials](#Recommended-YouTube-Channels-for-Laravel-Tutorials)
