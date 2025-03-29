@@ -411,6 +411,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Starter Kits: A New Beginning for Your Next Project [https://blog.laravel.com/laravel-starter-kits-a-new-beginning-for-your-next-project]
 - Resource Response Customization in Laravel APIs [https://laravel-news.com/withresponse]
 - Solo Dumps for Laravel [https://laravel-news.com/solo-dumps-for-laravel]
+- Laravel APIs: 3 Bad Practices [https://www.youtube.com/watch?v=VIEbKXeG7rU]
 
 ### TALL Stack Development
 
