@@ -414,6 +414,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel APIs: 3 Bad Practices [https://www.youtube.com/watch?v=VIEbKXeG7rU]
 - Generate Documentation in Laravel with AI [https://laravel-news.com/docudoodle-laravel-ai-documentation]
 - Generate Persistent Unique Values in Laravel [https://laravel-news.com/generate-persistent-unique-values-in-laravel]
+- A guide to custom model casts in Laravel [https://www.honeybadger.io/blog/custom-laravel-casts/]
 
 ### TALL Stack Development
 
