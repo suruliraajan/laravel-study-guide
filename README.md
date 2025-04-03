@@ -417,6 +417,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - A guide to custom model casts in Laravel [https://www.honeybadger.io/blog/custom-laravel-casts/]
 - Support for Query Builder Pipelines in Laravel 12.4 [https://laravel-news.com/laravel-12-4-0]
 - Eloquent Cast for HTML Strings in Laravel [https://laravel-news.com/eloquent-cast-for-html-strings-in-laravel]
+- Feature Flags with Laravel Pennant [https://laravel-news.com/feature-flags-with-laravel-pennant]
 
 ### TALL Stack Development
 
