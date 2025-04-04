@@ -418,6 +418,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Support for Query Builder Pipelines in Laravel 12.4 [https://laravel-news.com/laravel-12-4-0]
 - Eloquent Cast for HTML Strings in Laravel [https://laravel-news.com/eloquent-cast-for-html-strings-in-laravel]
 - Feature Flags with Laravel Pennant [https://laravel-news.com/feature-flags-with-laravel-pennant]
+- Laravel Wayfinder [https://devdojo.com/tnylea/laravel-wayfinder]
 
 ### TALL Stack Development
 
