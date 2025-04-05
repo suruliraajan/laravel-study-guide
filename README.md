@@ -419,6 +419,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Eloquent Cast for HTML Strings in Laravel [https://laravel-news.com/eloquent-cast-for-html-strings-in-laravel]
 - Feature Flags with Laravel Pennant [https://laravel-news.com/feature-flags-with-laravel-pennant]
 - Laravel Wayfinder [https://devdojo.com/tnylea/laravel-wayfinder]
+- Local Model Scopes in Laravel with the Scope Attribute [https://laravel-news.com/local-model-scopes-in-laravel-with-the-scope-attribute]
 
 ### TALL Stack Development
 
