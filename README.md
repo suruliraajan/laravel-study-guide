@@ -420,6 +420,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Feature Flags with Laravel Pennant [https://laravel-news.com/feature-flags-with-laravel-pennant]
 - Laravel Wayfinder [https://devdojo.com/tnylea/laravel-wayfinder]
 - Local Model Scopes in Laravel with the Scope Attribute [https://laravel-news.com/local-model-scopes-in-laravel-with-the-scope-attribute]
+- A cookieless, cache-friendly image proxy in Laravel [https://aaronfrancis.com/2025/a-cookieless-cache-friendly-image-proxy-in-laravel-inspired-by-cloudflare-9e95f7e0]
 
 ### TALL Stack Development
 
