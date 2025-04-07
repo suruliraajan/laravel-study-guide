@@ -421,6 +421,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Wayfinder [https://devdojo.com/tnylea/laravel-wayfinder]
 - Local Model Scopes in Laravel with the Scope Attribute [https://laravel-news.com/local-model-scopes-in-laravel-with-the-scope-attribute]
 - A cookieless, cache-friendly image proxy in Laravel [https://aaronfrancis.com/2025/a-cookieless-cache-friendly-image-proxy-in-laravel-inspired-by-cloudflare-9e95f7e0]
+- Why You Should Use a GDPR-Compliant Cookie Consent in Your Laravel Project [https://medium.com/@devrabiul/why-you-should-use-a-gdpr-compliant-cookie-consent-in-your-laravel-project-e1c4fd0fa5eb]
 
 ### TALL Stack Development
 
