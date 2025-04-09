@@ -423,6 +423,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - A cookieless, cache-friendly image proxy in Laravel [https://aaronfrancis.com/2025/a-cookieless-cache-friendly-image-proxy-in-laravel-inspired-by-cloudflare-9e95f7e0]
 - Why You Should Use a GDPR-Compliant Cookie Consent in Your Laravel Project [https://medium.com/@devrabiul/why-you-should-use-a-gdpr-compliant-cookie-consent-in-your-laravel-project-e1c4fd0fa5eb]
 - Implementing Multitenancy in Laravel [https://freek.dev/2841-implementing-multitenancy-in-laravel]
+- 6 Laravel Tips from Senior Developer Benjamin [https://www.youtube.com/watch?v=QCpFKZcQBog]
 
 ### TALL Stack Development
 
