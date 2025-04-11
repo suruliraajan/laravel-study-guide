@@ -425,6 +425,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Implementing Multitenancy in Laravel [https://freek.dev/2841-implementing-multitenancy-in-laravel]
 - 6 Laravel Tips from Senior Developer Benjamin [https://www.youtube.com/watch?v=QCpFKZcQBog]
 - Laravel Unique [https://laravel-news.com/laravel-unique]
+- Laravel Herd Raycast Extension [https://laravel-news.com/laravel-herd-raycast-extension]
 
 ### TALL Stack Development
 
