@@ -426,6 +426,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 6 Laravel Tips from Senior Developer Benjamin [https://www.youtube.com/watch?v=QCpFKZcQBog]
 - Laravel Unique [https://laravel-news.com/laravel-unique]
 - Laravel Herd Raycast Extension [https://laravel-news.com/laravel-herd-raycast-extension]
+- Post-Process Query Results Elegantly with Laravel's afterQuery Method [https://laravel-news.com/afterQuery]
 
 ### TALL Stack Development
 
