@@ -430,6 +430,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Cursor YOLO-mode: Which Laravel Commands to Allow? [https://www.youtube.com/watch?v=BxG2hJIDQmI]
 - Laravel Test Assertions Package [https://laravel-news.com/laravel-test-assertions-package]
 - 13 Laravel Tips in 10 Minutes: March 2025 [https://www.youtube.com/watch?v=xHaiAeYsn3I]
+- Enhancing Database Error Diagnostics with Laravel's getRawSql [https://laravel-news.com/getrawsql]
+
 ### TALL Stack Development
 
 - The TALL stack is a modern web development solution that combines four key technologies:
