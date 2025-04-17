@@ -9,7 +9,7 @@ Here are some additional resources to help you learn Laravel:
 - [Laravel Documentation](https://laravel.com/docs),
 - [Laracasts (Video Tutorials)](https://laracasts.com),
 - [Laravel News](https://laravel-news.com),
-- [Laravel GitHub Repository](https://github.com/laravel/laravel)
+- [Laravel GitHub Repository](https://github.com/laravel/laravel),
 - [Recommended YouTube Channels for Laravel Tutorials](#Recommended-YouTube-Channels-for-Laravel-Tutorials)
 
 ## Recommended YouTube Channels for Laravel Tutorials
@@ -431,6 +431,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Test Assertions Package [https://laravel-news.com/laravel-test-assertions-package]
 - 13 Laravel Tips in 10 Minutes: March 2025 [https://www.youtube.com/watch?v=xHaiAeYsn3I]
 - Enhancing Database Error Diagnostics with Laravel's getRawSql [https://laravel-news.com/getrawsql]
+- Laravel Cookie Consent [https://laravel-news.com/laravel-cookie-consent]
 
 ### TALL Stack Development
 
