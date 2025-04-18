@@ -432,6 +432,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 13 Laravel Tips in 10 Minutes: March 2025 [https://www.youtube.com/watch?v=xHaiAeYsn3I]
 - Enhancing Database Error Diagnostics with Laravel's getRawSql [https://laravel-news.com/getrawsql]
 - Laravel Cookie Consent [https://laravel-news.com/laravel-cookie-consent]
+- Memoized Cache Driver in Laravel 12.9 [https://laravel-news.com/laravel-12-9-0]
 
 ### TALL Stack Development
 
