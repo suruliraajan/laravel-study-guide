@@ -433,6 +433,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Enhancing Database Error Diagnostics with Laravel's getRawSql [https://laravel-news.com/getrawsql]
 - Laravel Cookie Consent [https://laravel-news.com/laravel-cookie-consent]
 - Memoized Cache Driver in Laravel 12.9 [https://laravel-news.com/laravel-12-9-0]
+- Laravel Code Example: Livewire, Service, Unit Tests, and OpenAI [https://www.youtube.com/watch?v=-f6m98mSI5g]
 
 ### TALL Stack Development
 
