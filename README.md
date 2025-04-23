@@ -436,6 +436,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Code Example: Livewire, Service, Unit Tests, and OpenAI [https://www.youtube.com/watch?v=-f6m98mSI5g]
 - Laravel Simple RabbitMQ Package [https://laravel-news.com/laravel-simple-rabbitmq-package]
 - Laravel Toaster Magic [https://laravel-news.com/laravel-toaster-magic]
+- Laravel Cookie Consent [https://laravel-news.com/laravel-cookie-consent]
 
 ### TALL Stack Development
 
