@@ -437,6 +437,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Simple RabbitMQ Package [https://laravel-news.com/laravel-simple-rabbitmq-package]
 - Laravel Toaster Magic [https://laravel-news.com/laravel-toaster-magic]
 - Laravel Cookie Consent [https://laravel-news.com/laravel-cookie-consent]
+- Top 20 Laravel Packages Every Developer Should Know in 2025  [https://medium.com/@devrabiul/top-20-laravel-packages-every-developer-should-know-in-2025-d3d903b42c3c]
 
 ### TALL Stack Development
 
