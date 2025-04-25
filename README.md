@@ -5,7 +5,7 @@ Welcome to the **Laravel Study Guide**! This repository is a comprehensive resou
 ## Resources
 Here are some additional resources to help you learn Laravel:
 
-- [Laravel Official Website](https://laravel.com)
+- [Laravel Official Website](https://laravel.com),
 - [Laravel Documentation](https://laravel.com/docs)
 - [Laracasts (Video Tutorials)](https://laracasts.com)
 - [Laravel News](https://laravel-news.com)
