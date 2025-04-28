@@ -441,6 +441,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Livewire in 11 Minutes: Main Things You Need to Know [https://www.youtube.com/watch?v=9Ya6MvJPQ54]
 - Verifying Exception Reporting in Laravel with assertReported [https://laravel-news.com/exception-assertreported]
 - DevOps With Laravel: Queues and Workers in Production [https://freek.dev/2846-devops-with-laravel-queues-and-workers-in-production]
+- Habits I recommend to succeed as a developer [https://www.saiyangrowthletter.com/p/habits-i-recommend-to-succeed-as]
 
 ### TALL Stack Development
 
