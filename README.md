@@ -443,6 +443,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - DevOps With Laravel: Queues and Workers in Production [https://freek.dev/2846-devops-with-laravel-queues-and-workers-in-production]
 - Habits I recommend to succeed as a developer [https://www.saiyangrowthletter.com/p/habits-i-recommend-to-succeed-as]
 - Tricking Laravel Into Auto-Loading Routes [https://msamgan.com/tricking-laravel-into-auto-loading-routes]
+- Track Job Progress and Status in Laravel with the Laravel Job Status Package [https://laravel-news.com/laravel-job-status-package]
 
 ### TALL Stack Development
 
