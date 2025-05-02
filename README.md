@@ -445,6 +445,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Tricking Laravel Into Auto-Loading Routes [https://msamgan.com/tricking-laravel-into-auto-loading-routes]
 - Track Job Progress and Status in Laravel with the Laravel Job Status Package [https://laravel-news.com/laravel-job-status-package]
 - Mastering Laravel’s Advanced Eloquent: Best Practices for Complex Queries [https://medium.com/@mohamadshahkhajeh/mastering-laravels-advanced-eloquent-best-practices-for-complex-queries-b15a0f60d2d4]
+- Laravel Observers vs Event Listeners: What’s the Difference [https://freek.dev/2847-laravel-observers-vs-event-listeners-whats-the-difference]
 
 ### TALL Stack Development
 
