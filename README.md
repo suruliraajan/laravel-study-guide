@@ -444,6 +444,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Habits I recommend to succeed as a developer [https://www.saiyangrowthletter.com/p/habits-i-recommend-to-succeed-as]
 - Tricking Laravel Into Auto-Loading Routes [https://msamgan.com/tricking-laravel-into-auto-loading-routes]
 - Track Job Progress and Status in Laravel with the Laravel Job Status Package [https://laravel-news.com/laravel-job-status-package]
+- Mastering Laravel’s Advanced Eloquent: Best Practices for Complex Queries [https://medium.com/@mohamadshahkhajeh/mastering-laravels-advanced-eloquent-best-practices-for-complex-queries-b15a0f60d2d4]
 
 ### TALL Stack Development
 
