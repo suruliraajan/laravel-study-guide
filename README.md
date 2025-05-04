@@ -5,7 +5,7 @@ Welcome to the **Laravel Study Guide**! This repository is a comprehensive resou
 ## Resources
 Here are some additional resources to help you learn Laravel:
 
-- [Laravel Official Website](https://laravel.com)
+- [Laravel Official Website](https://laravel.com),
 - [Laravel Documentation](https://laravel.com/docs)
 - [Laracasts (Video Tutorials)](https://laracasts.com)
 - [Laravel News](https://laravel-news.com)
@@ -446,6 +446,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Track Job Progress and Status in Laravel with the Laravel Job Status Package [https://laravel-news.com/laravel-job-status-package]
 - Mastering Laravel’s Advanced Eloquent: Best Practices for Complex Queries [https://medium.com/@mohamadshahkhajeh/mastering-laravels-advanced-eloquent-best-practices-for-complex-queries-b15a0f60d2d4]
 - Laravel Observers vs Event Listeners: What’s the Difference [https://freek.dev/2847-laravel-observers-vs-event-listeners-whats-the-difference]
+- A first look at Laravel Nightwatch [https://laravel-news.com/a-first-look-at-laravel-nightwatch]
 
 ### TALL Stack Development
 
