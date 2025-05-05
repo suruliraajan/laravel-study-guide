@@ -447,6 +447,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Mastering Laravel’s Advanced Eloquent: Best Practices for Complex Queries [https://medium.com/@mohamadshahkhajeh/mastering-laravels-advanced-eloquent-best-practices-for-complex-queries-b15a0f60d2d4]
 - Laravel Observers vs Event Listeners: What’s the Difference [https://freek.dev/2847-laravel-observers-vs-event-listeners-whats-the-difference]
 - A first look at Laravel Nightwatch [https://laravel-news.com/a-first-look-at-laravel-nightwatch]
+- HTTP Caching APIs with Laravel and Vapor [https://apisyouwonthate.com/blog/http-caching-for-laravel-vapor/]
 
 ### TALL Stack Development
 
