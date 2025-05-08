@@ -450,6 +450,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - HTTP Caching APIs with Laravel and Vapor [https://apisyouwonthate.com/blog/http-caching-for-laravel-vapor/]
 - Revolutionize Laravel Email Creation System [https://github.com/maantje/laravel-react-email]
 - Safely Retry API calls in Laravel [https://laravel-news.com/idempotency-laravel-package]
+- Top 3 Mistakes with Roles/Permissions in Laravel [https://www.youtube.com/watch?v=2nMpZYEVhkI]
 
 ### TALL Stack Development
 
