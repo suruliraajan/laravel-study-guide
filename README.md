@@ -451,6 +451,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Revolutionize Laravel Email Creation System [https://github.com/maantje/laravel-react-email]
 - Safely Retry API calls in Laravel [https://laravel-news.com/idempotency-laravel-package]
 - Top 3 Mistakes with Roles/Permissions in Laravel [https://www.youtube.com/watch?v=2nMpZYEVhkI]
+- Livewire and Inertia: how we love and use both at Spatie [https://freek.dev/2852-livewire-and-inertia-how-we-love-and-use-both-at-spatie]
 
 ### TALL Stack Development
 
