@@ -5,7 +5,7 @@ Welcome to the **Laravel Study Guide**! This repository is a comprehensive resou
 ## Resources
 Here are some additional resources to help you learn Laravel:
 
-- [Laravel Official Website](https://laravel.com)
+- [Laravel Official Website](https://laravel.com),
 - [Laravel Documentation](https://laravel.com/docs)
 - [Laracasts (Video Tutorials)](https://laracasts.com)
 - [Laravel News](https://laravel-news.com)
@@ -454,6 +454,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Livewire and Inertia: how we love and use both at Spatie [https://freek.dev/2852-livewire-and-inertia-how-we-love-and-use-both-at-spatie]
 - A package to handle passkeys in Laravel [https://freek.dev/2854-a-package-to-handle-passkeys-in-laravel]
 - Populate is a Supercharged Seeder for Laravel [https://laravel-news.com/populate]
+- BelongsToMany vs Polymorphic: Performance Benchmark [https://www.youtube.com/watch?v=wwbGIfk0vfc]
 
 ### TALL Stack Development
 
