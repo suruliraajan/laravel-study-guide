@@ -455,6 +455,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - A package to handle passkeys in Laravel [https://freek.dev/2854-a-package-to-handle-passkeys-in-laravel]
 - Populate is a Supercharged Seeder for Laravel [https://laravel-news.com/populate]
 - BelongsToMany vs Polymorphic: Performance Benchmark [https://www.youtube.com/watch?v=wwbGIfk0vfc]
+- Five levels of handling images in Laravel [https://freek.dev/2857-five-levels-of-handling-images-in-laravel]
 
 ### TALL Stack Development
 
