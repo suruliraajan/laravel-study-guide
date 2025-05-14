@@ -456,6 +456,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Populate is a Supercharged Seeder for Laravel [https://laravel-news.com/populate]
 - BelongsToMany vs Polymorphic: Performance Benchmark [https://www.youtube.com/watch?v=wwbGIfk0vfc]
 - Five levels of handling images in Laravel [https://freek.dev/2857-five-levels-of-handling-images-in-laravel]
+- Managing Encrypted Environment Variables In Laravel With Veil [https://laravel-news.com/veil-managing-encrypted-environment-variables]
 
 ### TALL Stack Development
 
