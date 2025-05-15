@@ -9,7 +9,7 @@ Here are some additional resources to help you learn Laravel:
 - [Laravel Documentation](https://laravel.com/docs),
 - [Laracasts (Video Tutorials)](https://laracasts.com),
 - [Laravel News](https://laravel-news.com),
-- [Laravel GitHub Repository](https://github.com/laravel/laravel),
+- [Laravel GitHub Repository](https://github.com/laravel/laravel)
 - [Recommended YouTube Channels for Laravel Tutorials](#Recommended-YouTube-Channels-for-Laravel-Tutorials)
 
 ## Recommended YouTube Channels for Laravel Tutorials
@@ -457,6 +457,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - BelongsToMany vs Polymorphic: Performance Benchmark [https://www.youtube.com/watch?v=wwbGIfk0vfc]
 - Five levels of handling images in Laravel [https://freek.dev/2857-five-levels-of-handling-images-in-laravel]
 - Managing Encrypted Environment Variables In Laravel With Veil [https://laravel-news.com/veil-managing-encrypted-environment-variables]
+- Laravel Auth with Phone and OTP SMS [https://www.youtube.com/watch?v=SeNk60KCV1U]
 
 ### TALL Stack Development
 
