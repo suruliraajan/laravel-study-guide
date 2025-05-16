@@ -458,6 +458,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Five levels of handling images in Laravel [https://freek.dev/2857-five-levels-of-handling-images-in-laravel]
 - Managing Encrypted Environment Variables In Laravel With Veil [https://laravel-news.com/veil-managing-encrypted-environment-variables]
 - Laravel Auth with Phone and OTP SMS [https://www.youtube.com/watch?v=SeNk60KCV1U]
+- NativePHP for Mobile: Demo Laravel Project [https://www.youtube.com/watch?v=NBNYJsMbo70]
 
 ### TALL Stack Development
 
