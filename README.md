@@ -459,6 +459,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Managing Encrypted Environment Variables In Laravel With Veil [https://laravel-news.com/veil-managing-encrypted-environment-variables]
 - Laravel Auth with Phone and OTP SMS [https://www.youtube.com/watch?v=SeNk60KCV1U]
 - NativePHP for Mobile: Demo Laravel Project [https://www.youtube.com/watch?v=NBNYJsMbo70]
+- Auto-translate Application Strings with Laratext [https://laravel-news.com/auto-translate-application-strings-with-laratext]
 
 ### TALL Stack Development
 
