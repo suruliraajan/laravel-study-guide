@@ -461,6 +461,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - NativePHP for Mobile: Demo Laravel Project [https://www.youtube.com/watch?v=NBNYJsMbo70]
 - Auto-translate Application Strings with Laratext [https://laravel-news.com/auto-translate-application-strings-with-laratext]
 - Five levels of handling images in Laravel [https://freek.dev/2857-five-levels-of-handling-images-in-laravel]
+- Stress-Testing Laravel App Performance with k6 and Http Client [https://www.youtube.com/watch?v=CikyLcP31Kw]
 
 ### TALL Stack Development
 
