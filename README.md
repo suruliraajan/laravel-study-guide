@@ -462,7 +462,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Auto-translate Application Strings with Laratext [https://laravel-news.com/auto-translate-application-strings-with-laratext]
 - Five levels of handling images in Laravel [https://freek.dev/2857-five-levels-of-handling-images-in-laravel]
 - Stress-Testing Laravel App Performance with k6 and Http Client [https://www.youtube.com/watch?v=CikyLcP31Kw]
-
+- 8 Security Best Practices in Laravel [https://medium.com/@dsjayamal/8-security-best-practices-in-laravel-ad7513798cfb]
 ### TALL Stack Development
 
 - The TALL stack is a modern web development solution that combines four key technologies:
