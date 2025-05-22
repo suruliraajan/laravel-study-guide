@@ -463,6 +463,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Five levels of handling images in Laravel [https://freek.dev/2857-five-levels-of-handling-images-in-laravel]
 - Stress-Testing Laravel App Performance with k6 and Http Client [https://www.youtube.com/watch?v=CikyLcP31Kw]
 - 8 Security Best Practices in Laravel [https://medium.com/@dsjayamal/8-security-best-practices-in-laravel-ad7513798cfb]
+- Simplifying work with custom stubs in Laravel [https://freek.dev/2860-simplifying-work-with-custom-stubs-in-laravel]
+
 ### TALL Stack Development
 
 - The TALL stack is a modern web development solution that combines four key technologies:
