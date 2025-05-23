@@ -464,6 +464,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Stress-Testing Laravel App Performance with k6 and Http Client [https://www.youtube.com/watch?v=CikyLcP31Kw]
 - 8 Security Best Practices in Laravel [https://medium.com/@dsjayamal/8-security-best-practices-in-laravel-ad7513798cfb]
 - Simplifying work with custom stubs in Laravel [https://freek.dev/2860-simplifying-work-with-custom-stubs-in-laravel]
+- Streamline API Resources with Laravel's Fluent Methods [https://laravel-news.com/api-resources-fluent-methods]
 
 ### TALL Stack Development
 
