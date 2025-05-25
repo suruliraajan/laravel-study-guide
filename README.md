@@ -466,6 +466,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Simplifying work with custom stubs in Laravel [https://freek.dev/2860-simplifying-work-with-custom-stubs-in-laravel]
 - Streamline API Resources with Laravel's Fluent Methods [https://laravel-news.com/api-resources-fluent-methods]
 - A package to handle one-time passwords (OTP) in Laravel apps [https://freek.dev/2864-a-package-to-handle-one-time-passwords-otp-in-laravel-apps]
+- OAuth2 server implementation using Laravel [https://github.com/muhammadsanwarulislam/oauth2-laravel]
 
 
 
