@@ -468,6 +468,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - A package to handle one-time passwords (OTP) in Laravel apps [https://freek.dev/2864-a-package-to-handle-one-time-passwords-otp-in-laravel-apps]
 - OAuth2 server implementation using Laravel [https://github.com/muhammadsanwarulislam/oauth2-laravel]
 - 3 Laravel Security Features You Need to Know [https://medium.com/@aramayis_m/3-laravel-security-features-you-need-to-know-with-examples-54004d143d2d]
+- Volet is a Customer Feedback Widget for Laravel [https://laravel-news.com/volet-is-a-customer-feedback-widget-for-laravel]
 
 
 
