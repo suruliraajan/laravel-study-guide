@@ -469,6 +469,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - OAuth2 server implementation using Laravel [https://github.com/muhammadsanwarulislam/oauth2-laravel]
 - 3 Laravel Security Features You Need to Know [https://medium.com/@aramayis_m/3-laravel-security-features-you-need-to-know-with-examples-54004d143d2d]
 - Volet is a Customer Feedback Widget for Laravel [https://laravel-news.com/volet-is-a-customer-feedback-widget-for-laravel]
+- Building a Complete Blog API with Laravel API CRUD Generator [https://medium.com/@davidrai441/building-a-complete-blog-api-with-laravel-api-crud-generator-7349f46f046e]
 
 
 
