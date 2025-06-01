@@ -472,6 +472,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Building a Complete Blog API with Laravel API CRUD Generator [https://medium.com/@davidrai441/building-a-complete-blog-api-with-laravel-api-crud-generator-7349f46f046e]
 - ElasticLens: Eloquent-Powered Elasticsearch for Laravel [https://laravel-news.com/elasticlens-eloquent-powered-elasticsearch-for-laravel]
 - Mastering The Laravel App Service Pattern [https://jotonsutradhar.com/blogs/mastering-the-laravel-app-service-pattern-15]
+- laravel-taxonomy [https://github.com/aliziodev/laravel-taxonomy]
+ 
 
 
 ### TALL Stack Development
