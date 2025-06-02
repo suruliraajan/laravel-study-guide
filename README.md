@@ -473,7 +473,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - ElasticLens: Eloquent-Powered Elasticsearch for Laravel [https://laravel-news.com/elasticlens-eloquent-powered-elasticsearch-for-laravel]
 - Mastering The Laravel App Service Pattern [https://jotonsutradhar.com/blogs/mastering-the-laravel-app-service-pattern-15]
 - laravel-taxonomy [https://github.com/aliziodev/laravel-taxonomy]
- 
+- Alpine.js Open-Source Example by Spatie: PHP Operators (no Livewire) [https://www.youtube.com/watch?v=RVigaDLJbZM]
 
 
 ### TALL Stack Development
