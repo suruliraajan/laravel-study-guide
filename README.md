@@ -474,6 +474,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Mastering The Laravel App Service Pattern [https://jotonsutradhar.com/blogs/mastering-the-laravel-app-service-pattern-15]
 - laravel-taxonomy [https://github.com/aliziodev/laravel-taxonomy]
 - Alpine.js Open-Source Example by Spatie: PHP Operators (no Livewire) [https://www.youtube.com/watch?v=RVigaDLJbZM]
+- Supercharge Your Laravel App With Queues – A Developer’s Experience With Background Email Sending [https://jotonsutradhar.com/blogs/supercharge-your-laravel-app-with-queues-a-developers-experience-with-background-email-sending-]
 
 
 ### TALL Stack Development
