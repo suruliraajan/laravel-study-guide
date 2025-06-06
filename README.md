@@ -477,6 +477,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Supercharge Your Laravel App With Queues – A Developer’s Experience With Background Email Sending [https://jotonsutradhar.com/blogs/supercharge-your-laravel-app-with-queues-a-developers-experience-with-background-email-sending-]
 - Laravel Routing: Explained in 3 Minutes [https://www.youtube.com/watch?v=157RdwN2pzM]
 - 3 Tools to Draw/Manage Database Schema [https://www.youtube.com/watch?v=Kh5-WohujJc]
+- Efficiently remove expired cache data with Laravel Cache Evict [https://laravel-news.com/laravel-cache-evict]
 
 
 ### TALL Stack Development
