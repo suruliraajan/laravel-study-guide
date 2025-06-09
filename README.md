@@ -480,6 +480,9 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Efficiently remove expired cache data with Laravel Cache Evict [https://laravel-news.com/laravel-cache-evict]
 - 11 Laravel Packages for User Extra Behavior [https://www.youtube.com/watch?v=KlhmXKZ7jm8]
 - High-Traffic Optimization with Cache, Queue & Session Tactics [https://medium.com/@mohamadshahkhajeh/laravel-under-pressure-high-traffic-optimization-with-cache-queue-session-tactics-8d22ca5848c3]
+- Laravel File Viewer [https://github.com/vish4395/laravel-file-viewer]
+
+
 
 ### TALL Stack Development
 
