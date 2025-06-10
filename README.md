@@ -481,6 +481,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 11 Laravel Packages for User Extra Behavior [https://www.youtube.com/watch?v=KlhmXKZ7jm8]
 - High-Traffic Optimization with Cache, Queue & Session Tactics [https://medium.com/@mohamadshahkhajeh/laravel-under-pressure-high-traffic-optimization-with-cache-queue-session-tactics-8d22ca5848c3]
 - Laravel File Viewer [https://github.com/vish4395/laravel-file-viewer]
+- Bring Laravel Tinker to Your Browser with PHP DevTools Console [https://fullstackintellect.com/bring-laravel-tinker-to-your-browser-with-php-devtools-console-25d8461d4941]
 
 
 
