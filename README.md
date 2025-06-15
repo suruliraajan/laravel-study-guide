@@ -485,6 +485,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - A package to handle the SEO in any Laravel-application [https://ralphjsmit.com/laravel-seo-package]
 - Level Up Your Laravel Forms with These 5 Validation Tricks [https://medium.com/@developerawam/level-up-your-laravel-forms-with-these-5-validation-tricks-eaeb42014425]
 - Laravel Migration With Schema Validation in MongoDB [https://laravel-news.com/laravel-migration-with-schema-validation-in-mongodb]
+- On Laravel, Full-Stack JavaScript, and Productive Frameworks [https://www.jplhomer.org/posts/on-laravel-full-stack-javascript-and-productive-frameworks/]
 
 ### TALL Stack Development
 
