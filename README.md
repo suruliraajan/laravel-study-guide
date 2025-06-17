@@ -487,6 +487,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Migration With Schema Validation in MongoDB [https://laravel-news.com/laravel-migration-with-schema-validation-in-mongodb]
 - On Laravel, Full-Stack JavaScript, and Productive Frameworks [https://www.jplhomer.org/posts/on-laravel-full-stack-javascript-and-productive-frameworks/]
 - Manage Taxonomies, Categories, and Tags in Laravel [https://laravel-news.com/laravel-taxonomy]
+- Laravel Service Repository Pattern: My Experience and Key Benefits [https://medium.com/@devajayantha/laravel-service-repository-pattern-my-experience-and-key-benefits-afa985cd8b18]
 
 ### TALL Stack Development
 
