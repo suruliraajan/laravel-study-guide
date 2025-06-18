@@ -488,6 +488,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - On Laravel, Full-Stack JavaScript, and Productive Frameworks [https://www.jplhomer.org/posts/on-laravel-full-stack-javascript-and-productive-frameworks/]
 - Manage Taxonomies, Categories, and Tags in Laravel [https://laravel-news.com/laravel-taxonomy]
 - Laravel Service Repository Pattern: My Experience and Key Benefits [https://medium.com/@devajayantha/laravel-service-repository-pattern-my-experience-and-key-benefits-afa985cd8b18]
+- Larallow is a Permissions Package With Support for Scopes [https://laravel-news.com/larallow-laravel-permissions-package]
+
 
 ### TALL Stack Development
 
