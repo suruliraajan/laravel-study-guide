@@ -491,6 +491,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Larallow is a Permissions Package With Support for Scopes [https://laravel-news.com/larallow-laravel-permissions-package].
 - FrankenPHP with Laravel can do a magical thing [https://freek.dev/2620-frankenphp-with-laravel-can-do-a-magical-thing]
 - Manipulate Image URLs in Laravel with the Image Transform Package [https://laravel-news.com/laravel-image-transform-url]
+- Filament Plugin: PDF Preview After Upload [https://github.com/AsmitNepali/filament-upload]
 
 
 
