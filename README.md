@@ -493,6 +493,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Manipulate Image URLs in Laravel with the Image Transform Package [https://laravel-news.com/laravel-image-transform-url]
 - Filament Plugin: PDF Preview After Upload [https://github.com/AsmitNepali/filament-upload]
 - Test Deferred Operations Easily with Laravel's withoutDefer Helper [https://laravel-news.com/withoutdefer]
+- Lightning Fast Schedule Management for Laravel [https://laravel-news.com/lightning-fast-schedule-management-for-laravel]
 
 
 ### TALL Stack Development
