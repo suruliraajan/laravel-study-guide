@@ -494,6 +494,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Filament Plugin: PDF Preview After Upload [https://github.com/AsmitNepali/filament-upload]
 - Test Deferred Operations Easily with Laravel's withoutDefer Helper [https://laravel-news.com/withoutdefer]
 - Lightning Fast Schedule Management for Laravel [https://laravel-news.com/lightning-fast-schedule-management-for-laravel]
+- Grouping and Filtering Data Faster with groupBy() & having() in Laravel [https://medium.com/@developerawam/grouping-and-filtering-data-faster-with-groupby-having-in-laravel-5519e62ed4dd]
 
 
 ### TALL Stack Development
