@@ -496,6 +496,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Lightning Fast Schedule Management for Laravel [https://laravel-news.com/lightning-fast-schedule-management-for-laravel]
 - Grouping and Filtering Data Faster with groupBy() & having() in Laravel [https://medium.com/@developerawam/grouping-and-filtering-data-faster-with-groupby-having-in-laravel-5519e62ed4dd]
 - Laravel Migrations Foreign ID: Do You Specify Table Name? [https://www.youtube.com/watch?v=GCF9j-Rbo_M]
+- 11 Laravel Packages for User Extra Behavior [https://www.youtube.com/watch?v=KlhmXKZ7jm8&t=3s]
 
 
 ### TALL Stack Development
