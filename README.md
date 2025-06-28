@@ -498,6 +498,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Migrations Foreign ID: Do You Specify Table Name? [https://www.youtube.com/watch?v=GCF9j-Rbo_M]
 - 11 Laravel Packages for User Extra Behavior [https://www.youtube.com/watch?v=KlhmXKZ7jm8&t=3s]
 - Building a Task Reminder With Laravel and MongoDB [https://laravel-news.com/building-a-task-reminder-with-laravel-and-mongodb]
+- larastan/larastan Adds code analysis to Laravel improving developer productivity and code quality. [https://github.com/larastan/larastan]
 
 
 ### TALL Stack Development
