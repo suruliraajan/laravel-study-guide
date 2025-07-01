@@ -499,6 +499,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 11 Laravel Packages for User Extra Behavior [https://www.youtube.com/watch?v=KlhmXKZ7jm8&t=3s]
 - Building a Task Reminder With Laravel and MongoDB [https://laravel-news.com/building-a-task-reminder-with-laravel-and-mongodb]
 - larastan/larastan Adds code analysis to Laravel improving developer productivity and code quality. [https://github.com/larastan/larastan]
+- Translate Your App to Other Languages With Laravel Gemini Translator [https://laravel-news.com/laravel-gemini-translator]
 
 
 ### TALL Stack Development
