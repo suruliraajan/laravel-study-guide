@@ -500,6 +500,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Building a Task Reminder With Laravel and MongoDB [https://laravel-news.com/building-a-task-reminder-with-laravel-and-mongodb]
 - larastan/larastan Adds code analysis to Laravel improving developer productivity and code quality. [https://github.com/larastan/larastan]
 - Translate Your App to Other Languages With Laravel Gemini Translator [https://laravel-news.com/laravel-gemini-translator]
+- Laravel Performance Testing With Volt-Test PHP [https://laravel-news.com/laravel-volt-test-php]
 
 
 ### TALL Stack Development
