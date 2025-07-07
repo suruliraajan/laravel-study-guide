@@ -5,7 +5,7 @@ Welcome to the **Laravel Study Guide**! This repository is a comprehensive resou
 ## Resources
 Here are some additional resources to help you learn Laravel:
 
-- [Laravel Official Website](https://laravel.com),
+- [Laravel Official Website](https://laravel.com)
 - [Laravel Documentation](https://laravel.com/docs)
 - [Laracasts (Video Tutorials)](https://laracasts.com)
 - [Laravel News](https://laravel-news.com)
@@ -500,7 +500,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Building a Task Reminder With Laravel and MongoDB [https://laravel-news.com/building-a-task-reminder-with-laravel-and-mongodb]
 - larastan/larastan Adds code analysis to Laravel improving developer productivity and code quality. [https://github.com/larastan/larastan]
 - Translate Your App to Other Languages With Laravel Gemini Translator [https://laravel-news.com/laravel-gemini-translator]
-- Laravel Performance Testing With Volt-Test PHP [https://laravel-news.com/laravel-volt-test-php]
+- Laravel Performance Testing With Volt-Test PHP [https://laravel-news.com/laravel-volt-test-php] 
+- Laravel Request Content Type Inspection Methods [https://laravel-news.com/request-accepts]
 
 
 ### TALL Stack Development
