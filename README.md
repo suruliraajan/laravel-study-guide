@@ -502,6 +502,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Translate Your App to Other Languages With Laravel Gemini Translator [https://laravel-news.com/laravel-gemini-translator]
 - Laravel Performance Testing With Volt-Test PHP [https://laravel-news.com/laravel-volt-test-php] 
 - Laravel Request Content Type Inspection Methods [https://laravel-news.com/request-accepts]
+-
 
 
 ### TALL Stack Development
