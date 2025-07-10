@@ -503,6 +503,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Performance Testing With Volt-Test PHP [https://laravel-news.com/laravel-volt-test-php] 
 - Laravel Request Content Type Inspection Methods [https://laravel-news.com/request-accepts]
 - 3 Ways How Devs Use Vue.js in Laravel [https://www.youtube.com/watch?v=JPFevHc5i8k] 
+- Laravel AI Chat Starter Kit [https://laravel-news.com/laravel-ai-chat-starter-kit]
 
 
 ### TALL Stack Development
