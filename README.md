@@ -504,6 +504,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Request Content Type Inspection Methods [https://laravel-news.com/request-accepts]
 - 3 Ways How Devs Use Vue.js in Laravel [https://www.youtube.com/watch?v=JPFevHc5i8k] 
 - Laravel AI Chat Starter Kit [https://laravel-news.com/laravel-ai-chat-starter-kit]
+- Laravel Shortcuts: 5 Simple Functions to Speed Up Your Coding Workflow [https://medium.com/@developerawam/laravel-shortcuts-5-simple-functions-to-speed-up-your-coding-workflow-8718f4188c5a]
 
 
 ### TALL Stack Development
