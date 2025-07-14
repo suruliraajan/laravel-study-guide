@@ -5,7 +5,7 @@ Welcome to the **Laravel Study Guide**! This repository is a comprehensive resou
 ## Resources
 Here are some additional resources to help you learn Laravel:
 
-- [Laravel Official Website](https://laravel.com),
+- [Laravel Official Website](https://laravel.com)
 - [Laravel Documentation](https://laravel.com/docs)
 - [Laracasts (Video Tutorials)](https://laracasts.com)
 - [Laravel News](https://laravel-news.com)
@@ -505,6 +505,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 3 Ways How Devs Use Vue.js in Laravel [https://www.youtube.com/watch?v=JPFevHc5i8k] 
 - Laravel AI Chat Starter Kit [https://laravel-news.com/laravel-ai-chat-starter-kit]
 - Laravel Shortcuts: 5 Simple Functions to Speed Up Your Coding Workflow [https://medium.com/@developerawam/laravel-shortcuts-5-simple-functions-to-speed-up-your-coding-workflow-8718f4188c5a]
+- A Security Checklist for Your Laravel App Before You Hit Deploy [https://app.daily.dev/posts/a-security-checklist-for-your-laravel-app-before-you-hit-deploy-balfwtns3]
 
 
 ### TALL Stack Development
