@@ -506,6 +506,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel AI Chat Starter Kit [https://laravel-news.com/laravel-ai-chat-starter-kit]
 - Laravel Shortcuts: 5 Simple Functions to Speed Up Your Coding Workflow [https://medium.com/@developerawam/laravel-shortcuts-5-simple-functions-to-speed-up-your-coding-workflow-8718f4188c5a]
 - A Security Checklist for Your Laravel App Before You Hit Deploy [https://app.daily.dev/posts/a-security-checklist-for-your-laravel-app-before-you-hit-deploy-balfwtns3]
+- Livewire Doctor [https://github.com/devrabiul/livewire-doctor] 
 
 
 ### TALL Stack Development
