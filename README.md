@@ -507,6 +507,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Shortcuts: 5 Simple Functions to Speed Up Your Coding Workflow [https://medium.com/@developerawam/laravel-shortcuts-5-simple-functions-to-speed-up-your-coding-workflow-8718f4188c5a]
 - A Security Checklist for Your Laravel App Before You Hit Deploy [https://app.daily.dev/posts/a-security-checklist-for-your-laravel-app-before-you-hit-deploy-balfwtns3]
 - Livewire Doctor [https://github.com/devrabiul/livewire-doctor] 
+- Laravel: Complex Pricing Structure for E-Commerce (Flight Check-in Demo) [https://www.youtube.com/watch?v=0QFkKjVCLeg]
 
 
 ### TALL Stack Development
