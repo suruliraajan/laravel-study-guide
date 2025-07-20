@@ -508,6 +508,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - A Security Checklist for Your Laravel App Before You Hit Deploy [https://app.daily.dev/posts/a-security-checklist-for-your-laravel-app-before-you-hit-deploy-balfwtns3]
 - Livewire Doctor [https://github.com/devrabiul/livewire-doctor] 
 - Laravel: Complex Pricing Structure for E-Commerce (Flight Check-in Demo) [https://www.youtube.com/watch?v=0QFkKjVCLeg]
+- Laravel + Node.js: PHP in Watt Runtime [https://blog.platformatic.dev/laravel-nodejs-php-in-watt-runtime]
 
 
 ### TALL Stack Development
