@@ -510,6 +510,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel: Complex Pricing Structure for E-Commerce (Flight Check-in Demo) [https://www.youtube.com/watch?v=0QFkKjVCLeg]
 - Laravel + Node.js: PHP in Watt Runtime [https://blog.platformatic.dev/laravel-nodejs-php-in-watt-runtime]
 - Laravel's toUri() Method for Dynamic URL Construction [https://laravel-news.com/touri]
+- Upload Large Files with Filepond and Chunks [https://www.youtube.com/watch?v=xxo2uX5HoM8]
 
 
 ### TALL Stack Development
