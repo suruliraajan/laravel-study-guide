@@ -514,6 +514,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Serializable Closure: serialize the unserializable [https://freek.dev/2886-laravel-serializable-closure-serialize-the-unserializable]
 - Blade Service Injection: Direct Service Access in Laravel Templates [https://laravel-news.com/blade-inject]
 - NativePHP: Build Mobile App with Laravel (Example of Event App) [https://www.youtube.com/watch?v=oyMTvnPUTqY]
+- How to Boost Your Laravel App in Minutes [https://www.youtube.com/watch?v=wT1lcJ_zn18]
 
 
 ### TALL Stack Development
