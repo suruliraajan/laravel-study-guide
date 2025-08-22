@@ -515,6 +515,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Blade Service Injection: Direct Service Access in Laravel Templates [https://laravel-news.com/blade-inject]
 - NativePHP: Build Mobile App with Laravel (Example of Event App) [https://www.youtube.com/watch?v=oyMTvnPUTqY]
 - How to Boost Your Laravel App in Minutes [https://www.youtube.com/watch?v=wT1lcJ_zn18]
+- LaraDumps: A Package for Better dd() in Laravel/PHP [https://www.youtube.com/watch?v=1c2MT2d00EE]
 
 
 ### TALL Stack Development
