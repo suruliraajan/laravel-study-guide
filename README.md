@@ -517,6 +517,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - How to Boost Your Laravel App in Minutes [https://www.youtube.com/watch?v=wT1lcJ_zn18]
 - LaraDumps: A Package for Better dd() in Laravel/PHP [https://www.youtube.com/watch?v=1c2MT2d00EE]
 - Building a Multi-Step Form With Laravel, Livewire, and MongoDB [https://laravel-news.com/building-a-multi-step-form-with-laravel-livewire-and-mongodb]
+- How do Laravel sessions work? [https://www.youtube.com/watch?v=i0R1n2QskPc]
 
 
 ### TALL Stack Development
