@@ -520,6 +520,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - How do Laravel sessions work? [https://www.youtube.com/watch?v=i0R1n2QskPc]
 - Smart Cache Package for Laravel [https://laravel-news.com/smart-cache-package-for-laravel]
 - Laravel & Design Patterns — Practice Series: Facade [https://blog.stackademic.com/laravel-design-patterns-practice-series-facade-ce1c0598d177]
+- Clean Up Your Laravel Queries with Reusable Filters and tap() [https://medium.com/@developerawam/clean-up-your-laravel-queries-with-reusable-filters-and-tap-ffcbca3685a5]
 
 
 ### TALL Stack Development
