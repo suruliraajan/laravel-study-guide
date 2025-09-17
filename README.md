@@ -523,6 +523,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Clean Up Your Laravel Queries with Reusable Filters and tap() [https://medium.com/@developerawam/clean-up-your-laravel-queries-with-reusable-filters-and-tap-ffcbca3685a5]
 - Inside the Laravel Service Container [https://wendelladriel.com/blog/inside-the-laravel-service-container]
 - Laravel Internal Live-Chat with Reverb and Livewire [https://www.youtube.com/watch?v=ODfyoUdIgbs]
+- Laravel Model Structure: Writing Beautiful & Maintainable Code [https://medium.com/@devajayantha/laravel-model-structure-writing-beautiful-maintainable-code-07267d889399]
 
 
 ### TALL Stack Development
