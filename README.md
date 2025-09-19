@@ -525,6 +525,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Internal Live-Chat with Reverb and Livewire [https://www.youtube.com/watch?v=ODfyoUdIgbs]
 - Laravel Model Structure: Writing Beautiful & Maintainable Code [https://medium.com/@devajayantha/laravel-model-structure-writing-beautiful-maintainable-code-07267d889399]
 - Banned Users with Force Auto-Logout in Laravel [https://medium.com/@developerawam/banned-users-with-force-auto-logout-in-laravel-2662ac1c1d14]
+- Two-Factor Authentication in Laravel: Packages and Options [https://laraveldaily.com/post/two-factor-auth-laravel-packages-tools-methods]
 
 
 ### TALL Stack Development
