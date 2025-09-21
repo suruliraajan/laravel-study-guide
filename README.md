@@ -527,6 +527,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Banned Users with Force Auto-Logout in Laravel [https://medium.com/@developerawam/banned-users-with-force-auto-logout-in-laravel-2662ac1c1d14]
 - Two-Factor Authentication in Laravel: Packages and Options [https://laraveldaily.com/post/two-factor-auth-laravel-packages-tools-methods]
 - Laravel Performance: Careful with withCount() [https://www.youtube.com/watch?v=7AJHPSRiVi4]
+- Laravel + Vue stack  [https://icreatorstudio.com/blog/laravel-vue-modern-saas-stack-2025]
 
 
 ### TALL Stack Development
