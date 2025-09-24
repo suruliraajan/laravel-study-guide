@@ -529,6 +529,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Performance: Careful with withCount() [https://www.youtube.com/watch?v=7AJHPSRiVi4]
 - Laravel + Vue stack  [https://icreatorstudio.com/blog/laravel-vue-modern-saas-stack-2025]
 - Building Multi-Agent Systems in Laravel [https://inspector.dev/building-multi-agent-systems-in-laravel-a-practical-demo/]
+- Laravel MCP Beta [https://laravel-news.com/laravel-mcp-beta]
 
 
 ### TALL Stack Development
