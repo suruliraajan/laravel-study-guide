@@ -530,6 +530,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel + Vue stack  [https://icreatorstudio.com/blog/laravel-vue-modern-saas-stack-2025]
 - Building Multi-Agent Systems in Laravel [https://inspector.dev/building-multi-agent-systems-in-laravel-a-practical-demo/]
 - Laravel MCP Beta [https://laravel-news.com/laravel-mcp-beta]
+- Laravel Authorization [https://www.youtube.com/watch?v=1bnyjpAVQgQ]
 
 
 ### TALL Stack Development
