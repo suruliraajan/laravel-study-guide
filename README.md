@@ -531,6 +531,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Building Multi-Agent Systems in Laravel [https://inspector.dev/building-multi-agent-systems-in-laravel-a-practical-demo/]
 - Laravel MCP Beta [https://laravel-news.com/laravel-mcp-beta]
 - Laravel Authorization [https://www.youtube.com/watch?v=1bnyjpAVQgQ]
+- Beam: Feature Flags for the Frontend with Laravel Pennant [https://laravel-news.com/beam-feature-flags-for-the-frontend-with-laravel-pennant]
 
 
 ### TALL Stack Development
