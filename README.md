@@ -533,6 +533,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Authorization [https://www.youtube.com/watch?v=1bnyjpAVQgQ]
 - Beam: Feature Flags for the Frontend with Laravel Pennant [https://laravel-news.com/beam-feature-flags-for-the-frontend-with-laravel-pennant]
 - Laravel Database Notifications [https://www.youtube.com/watch?v=JqOkTLuOAs8]
+- 5 Powerful Laravel Features You Might Have Missed [https://dev-talk.com/post/5-powerful-laravel-features-you-might-have-missed]
 
 
 ### TALL Stack Development
