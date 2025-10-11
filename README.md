@@ -535,6 +535,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel Database Notifications [https://www.youtube.com/watch?v=JqOkTLuOAs8]
 - 5 Powerful Laravel Features You Might Have Missed [https://dev-talk.com/post/5-powerful-laravel-features-you-might-have-missed]
 - Laravel 12 Routes [https://dev-talk.com/post/laravel-12-routes-explained-step-by-step-learning-with-practical-examples]
+- Creating Responsive Component Networks with Laravel Livewire [https://laravel-news.com/on-event]
 
 
 ### TALL Stack Development
