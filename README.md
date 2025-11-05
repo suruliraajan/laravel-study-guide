@@ -537,6 +537,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Laravel 12 Routes [https://dev-talk.com/post/laravel-12-routes-explained-step-by-step-learning-with-practical-examples]
 - Creating Responsive Component Networks with Laravel Livewire [https://laravel-news.com/on-event]
 - How Laravel Devs Cut bugs by 50% [https://codermanjeet.medium.com/enums-how-laravel-devs-cut-bugs-by-50-d1c4af86929a]
+- Laravel Project with ALL THREE Starter Kits [https://www.youtube.com/watch?v=vtUplOVR0NE]
 
 
 ### TALL Stack Development
