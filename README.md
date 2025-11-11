@@ -539,6 +539,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - How Laravel Devs Cut bugs by 50% [https://codermanjeet.medium.com/enums-how-laravel-devs-cut-bugs-by-50-d1c4af86929a]
 - Laravel Project with ALL THREE Starter Kits [https://www.youtube.com/watch?v=vtUplOVR0NE]
 - Building MCP Servers in PHP [https://laravel-news.com/php-mcp-server-sdk]
+- Storing LLM Context the Laravel Way [https://inspector.dev/storing-llm-context-the-laravel-way-eloquentchathistory-in-neuron-ai/]
 
 
 ### TALL Stack Development
