@@ -541,6 +541,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Building MCP Servers in PHP [https://laravel-news.com/php-mcp-server-sdk]
 - Storing LLM Context the Laravel Way [https://inspector.dev/storing-llm-context-the-laravel-way-eloquentchathistory-in-neuron-ai/]
 - 20 Laravel Eloquent Performance Tips to Supercharge Your App [https://laravel-hub.com/blog/20-laravel-eloquent-performance-tips-to-supercharge-your-app]
+- Mastering Route Model Binding in Laravel: From Basic to Advanced [https://laravel-hub.com/blog/mastering-route-model-binding-in-laravel-from-basic-to-advanced]
 
 
 ### TALL Stack Development
