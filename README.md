@@ -543,6 +543,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - 20 Laravel Eloquent Performance Tips to Supercharge Your App [https://laravel-hub.com/blog/20-laravel-eloquent-performance-tips-to-supercharge-your-app]
 - Mastering Route Model Binding in Laravel: From Basic to Advanced [https://laravel-hub.com/blog/mastering-route-model-binding-in-laravel-from-basic-to-advanced]
 - Smart Cache Package for Laravel [https://laravel-news.com/smart-cache-package-for-laravel]
+- Interactively Search and Delete Cache Keys in Laravel with Cache UI [https://laravel-news.com/cache-ui-for-laravel]
 
 
 ### TALL Stack Development
