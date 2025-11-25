@@ -545,6 +545,8 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Smart Cache Package for Laravel [https://laravel-news.com/smart-cache-package-for-laravel]
 - Interactively Search and Delete Cache Keys in Laravel with Cache UI [https://laravel-news.com/cache-ui-for-laravel]
 - A Modern, Open-Source ERP Built on Laravel & Filament [https://laravel-hub.com/blog/aureus-erp-a-modern-open-source-erp-built-on-laravel-filament]
+- Simple Context Switching for Users [https://laravel-hub.com/blog/laravel-multi-persona]
+
 
 
 ### TALL Stack Development
