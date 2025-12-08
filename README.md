@@ -548,6 +548,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Simple Context Switching for Users [https://laravel-hub.com/blog/laravel-multi-persona]
 - Top 20 Laravel Packages [https://medium.com/@devrabiul/top-20-laravel-packages-every-developer-should-know-in-2025-d3d903b42c3c]
 - Stick With the Basics: How Basic Laravel Habits Prevent Big Database Problems [https://thekubera.medium.com/stick-with-the-basics-how-basic-laravel-habits-prevent-big-database-problems-ad224caaea8c]
+- Build Production-ready APIs [https://laravel-news.com/build-production-ready-apis-in-laravel-with-tyro]
 
 
 
