@@ -122,8 +122,8 @@ Middleware acts as a bridge between a request and a response. Learn how to creat
 
 ### Custom Middleware 
 
-- Creating and using custom middleware.
-- Middleware parameters and how to pass data to middleware.
+- Creating and using custom middleware
+- Middleware parameters and how to pass data to middleware
 
 ### Blade Templating
 
