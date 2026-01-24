@@ -552,6 +552,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - My Laravel Controller Was a Mess , Until I Found Pipelines [https://medium.com/@laraveldailytips/my-laravel-controller-was-a-mess-until-i-found-pipelines-31f130515004]
 - Laravel PWA Kit – Add Progressive Web App Features [https://github.com/devrabiul/laravel-pwa-kit]
 - Package Discovery: A Modern Way to Explore Packages Using Packagist API [https://app.daily.dev/posts/introducing-package-discovery-a-modern-way-to-explore-packages-using-packagist-api-fbqcptpgi]
+- Livewire 4: A Comprehensive Overview of New Features and Enhancements [https://app.daily.dev/posts/livewire-4-a-comprehensive-overview-of-new-features-and-enhancements-oxhgzzaoq]
 
 
 
