@@ -554,7 +554,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Package Discovery: A Modern Way to Explore Packages Using Packagist API [https://app.daily.dev/posts/introducing-package-discovery-a-modern-way-to-explore-packages-using-packagist-api-fbqcptpgi]
 - Livewire 4: A Comprehensive Overview of New Features and Enhancements [https://app.daily.dev/posts/livewire-4-a-comprehensive-overview-of-new-features-and-enhancements-oxhgzzaoq]
 - What We Know About Laravel 13 [https://laravel-news.com/laravel-13]
-
+- How To Set Up Laravel, Nginx, and MySQL with Docker Compose [https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose]
 
 
 
