@@ -555,6 +555,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Livewire 4: A Comprehensive Overview of New Features and Enhancements [https://app.daily.dev/posts/livewire-4-a-comprehensive-overview-of-new-features-and-enhancements-oxhgzzaoq]
 - What We Know About Laravel 13 [https://laravel-news.com/laravel-13]
 - How To Set Up Laravel, Nginx, and MySQL with Docker Compose [https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose]
+- Managed Databases Are Now Available in Laravel Forge [https://laravel.com/blog/managed-databases-are-now-available-in-laravel-forge]
 
 
 
