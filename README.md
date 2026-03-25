@@ -556,6 +556,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - What We Know About Laravel 13 [https://laravel-news.com/laravel-13]
 - How To Set Up Laravel, Nginx, and MySQL with Docker Compose [https://www.digitalocean.com/community/tutorials/how-to-set-up-laravel-nginx-and-mysql-with-docker-compose]
 - Managed Databases Are Now Available in Laravel Forge [https://laravel.com/blog/managed-databases-are-now-available-in-laravel-forge]
+- Model::withoutRelation() in Laravel 12.54.0 [https://laravel-news.com/laravel-12-54-0]
 
 
 
