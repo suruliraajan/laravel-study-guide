@@ -559,6 +559,7 @@ Authentication is a key aspect of web applications. Laravel makes it easy to imp
 - Model::withoutRelation() in Laravel 12.54.0 [https://laravel-news.com/laravel-12-54-0]
 - How To Install Laravel Packages Without Annoying the Rest of Your Team [https://levelup.gitconnected.com/how-to-install-laravel-packages-without-annoying-the-rest-of-your-team-532e53e29652]
 - Laravel Prompts v0.3.15 Adds Streaming, Tasks, Autocomplete, and More [https://laravel-news.com/laravel-prompts-0-3-15]
+- Manage Software Licenses in Laravel with Laravel Licensing [https://laravel-news.com/laravel-licensing]
 
 
 
